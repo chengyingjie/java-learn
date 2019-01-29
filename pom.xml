@@ -8,5 +8,30 @@
     <artifactId>learn</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-    
+
+    <dependencies>
+        <!-- Spring核心依赖 -->
+        <!-- https://www.cnblogs.com/javafucker/p/7566733.html -->
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-core</artifactId>
+            <version>4.3.7.RELEASE</version>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-beans</artifactId>
+            <version>4.3.7.RELEASE</version>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-context</artifactId>
+            <version>4.3.7.RELEASE</version>
+        </dependency>
+        <dependency>
+            <groupId>org.aspectj</groupId>
+            <artifactId>aspectjweaver</artifactId>
+            <version>1.9.2</version>
+        </dependency>
+    </dependencies>
+
 </project>
