@@ -1,7 +1,9 @@
 package com.jesse.learn.designpattern.chainresponsibility.demo;
 
+/**
+ * 责任链模式简单demo
+ */
 public class Demo {
-
 
     public static void main(String[] args) {
 
@@ -14,6 +16,4 @@ public class Demo {
 
         concreteOne.handleRequest("three");
     }
-
-
 }
