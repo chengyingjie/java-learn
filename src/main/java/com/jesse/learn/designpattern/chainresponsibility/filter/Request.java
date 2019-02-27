@@ -1,5 +1,8 @@
 package com.jesse.learn.designpattern.chainresponsibility.filter;
 
+/**
+ * 请求类
+ */
 public class Request {
 
     private String reqStr;

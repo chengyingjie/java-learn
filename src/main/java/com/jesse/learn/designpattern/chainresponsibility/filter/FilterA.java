@@ -1,5 +1,8 @@
 package com.jesse.learn.designpattern.chainresponsibility.filter;
 
+/**
+ * 过滤器A
+ */
 public class FilterA implements Filter {
 
     public void doFilter(Request request, Response response, FilterChain filterChain) {

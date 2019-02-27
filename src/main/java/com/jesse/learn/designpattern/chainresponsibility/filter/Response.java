@@ -1,5 +1,8 @@
 package com.jesse.learn.designpattern.chainresponsibility.filter;
 
+/**
+ * 结果类
+ */
 public class Response {
 
     Response(String respStr) {

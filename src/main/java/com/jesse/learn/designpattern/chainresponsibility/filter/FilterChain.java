@@ -3,6 +3,9 @@ package com.jesse.learn.designpattern.chainresponsibility.filter;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * 责任链
+ */
 public class FilterChain implements Filter {
 
     // 用来存储过滤规则
