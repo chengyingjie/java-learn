@@ -13,6 +13,14 @@
 
     <aop:config>
          <aop:aspect id="myaop" ref="adviceAnimalClient">
+             <!--
+             *package.func   (注意中间没有空格)  这就表示包名可能是不完整的，可能是前缀没有写（任意前缀）
+             * package.func  （中间有空格）这就表示返回的类型是随意的
+             ** package.func 这就表示修饰符和返回类型都随意
+
+             定义在service包里的任意方法的执行：execution(* com.xyz.service.*.*(..))
+             定义在service包和所有子包里的任意类的任意方法的执行：execution(* com.xyz.service..*.*(..))
+             -->
              <aop:pointcut id="logPointcut" expression="execution(* com.jesse.learn.spring..*.*(..))" />
              <aop:before method="animalEmpty" pointcut-ref="logPointcut" />
              <aop:after method="animalFull" pointcut-ref="logPointcut" />
