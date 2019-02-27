@@ -10,7 +10,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9dbc1bd-efec-478a-a115-cc79d0765b42" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/chainresponsibility/demo/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/chainresponsibility/demo/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/chainresponsibility/filter/Filter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/chainresponsibility/filter/FilterA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/chainresponsibility/filter/FilterB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/chainresponsibility/filter/FilterChain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/chainresponsibility/filter/FilterDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/chainresponsibility/filter/Request.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/chainresponsibility/filter/Response.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/designpattern/chainresponsibility/demo/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/designpattern/chainresponsibility/demo/Demo.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -28,56 +36,94 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="BeanDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/spring/BeanDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StaticBindDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/polymorphic/StaticBindDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Demo.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Demo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/chainresponsibility/demo/Demo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+            <state relative-caret-position="288">
+              <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AbstractHandler.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/chainresponsibility/demo/AbstractHandler.java">
+      <file leaf-file-name="Filter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/chainresponsibility/filter/Filter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="36">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FilterChain.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/chainresponsibility/filter/FilterChain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
               <folding>
-                <element signature="e#212#213#0" expanded="true" />
-                <element signature="e#258#259#0" expanded="true" />
-                <element signature="e#309#310#0" expanded="true" />
-                <element signature="e#351#352#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#209#217#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ConcreteOneHandler.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/chainresponsibility/demo/ConcreteOneHandler.java">
+      <file leaf-file-name="FilterA.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/chainresponsibility/filter/FilterA.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="234">
+              <caret line="13" column="60" selection-start-line="13" selection-start-column="60" selection-end-line="13" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FilterB.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/chainresponsibility/filter/FilterB.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="13" column="61" selection-start-line="13" selection-start-column="61" selection-end-line="13" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FilterDemo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/chainresponsibility/filter/FilterDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Request.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/chainresponsibility/filter/Request.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding>
+                <element signature="e#197#198#0" expanded="true" />
+                <element signature="e#233#234#0" expanded="true" />
+                <element signature="e#121#122#0" expanded="true" />
+                <element signature="e#150#151#0" expanded="true" />
+                <element signature="e#194#195#0" expanded="true" />
+                <element signature="e#230#231#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Response.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/chainresponsibility/filter/Response.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+              <folding>
+                <element signature="e#125#126#0" expanded="true" />
+                <element signature="e#163#164#0" expanded="true" />
+                <element signature="e#123#124#0" expanded="true" />
+                <element signature="e#153#154#0" expanded="true" />
+                <element signature="e#199#200#0" expanded="true" />
+                <element signature="e#237#238#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -96,33 +142,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
               <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AnimalServiceImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/spring/AnimalServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AnimalService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/spring/AnimalService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AdviceAnimalClient.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/spring/AdviceAnimalClient.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -180,6 +199,13 @@
         <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/chainresponsibility/demo/ConcreteTwoHandler.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/chainresponsibility/demo/ConcreteThreeHandler.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/chainresponsibility/demo/Demo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/chainresponsibility/filter/Filter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/chainresponsibility/filter/FilterChain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/chainresponsibility/filter/Request.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/chainresponsibility/filter/Response.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/chainresponsibility/filter/FilterA.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/chainresponsibility/filter/FilterB.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/chainresponsibility/filter/FilterDemo.java" />
       </list>
     </option>
   </component>
@@ -268,6 +294,16 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="learn" type="462c0819:PsiDirectoryNode" />
+              <item name="chainresponsibility" type="462c0819:PsiDirectoryNode" />
+              <item name="filter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-learn" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="learn" type="462c0819:PsiDirectoryNode" />
               <item name="reflect" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -340,7 +376,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo (1)">
+  <component name="RunManager" selected="Application.FilterDemo">
     <configuration name="BeanDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jesse.learn.spring.BeanDemo" />
       <module name="java-learn" />
@@ -370,6 +406,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.jesse.learn.polymorphic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="FilterDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jesse.learn.designpattern.chainresponsibility.filter.FilterDemo" />
+      <module name="java-learn" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jesse.learn.designpattern.chainresponsibility.filter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -431,9 +478,11 @@
       <item itemvalue="Application.StaticBindDemo" />
       <item itemvalue="Application.BeanDemo" />
       <item itemvalue="Application.Demo (1)" />
+      <item itemvalue="Application.FilterDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FilterDemo" />
         <item itemvalue="Application.Demo (1)" />
         <item itemvalue="Application.BeanDemo" />
         <item itemvalue="Application.StaticBindDemo" />
@@ -459,12 +508,12 @@
       <workItem from="1550037074218" duration="2385000" />
       <workItem from="1550750069973" duration="597000" />
       <workItem from="1550801122234" duration="575000" />
-      <workItem from="1551022474165" duration="4253000" />
+      <workItem from="1551022474165" duration="6398000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50069000" />
+    <option name="totallyTimeSpent" value="52214000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -512,7 +561,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="11" />
+      <option name="time" value="13" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
@@ -530,55 +579,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.7.RELEASE/spring-core-4.3.7.RELEASE.jar!/org/springframework/core/io/support/PathMatchingResourcePatternResolver.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="58" column="45" lean-forward="true" selection-start-line="58" selection-start-column="45" selection-end-line="58" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.7.RELEASE/spring-core-4.3.7.RELEASE.jar!/org/springframework/core/io/support/ResourcePatternUtils.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="22" column="65" selection-start-line="22" selection-start-column="65" selection-end-line="22" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.7.RELEASE/spring-core-4.3.7.RELEASE.jar!/org/springframework/util/ClassUtils.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-21">
-          <caret line="53" column="30" selection-start-line="53" selection-start-column="30" selection-end-line="53" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.7.RELEASE/spring-core-4.3.7.RELEASE.jar!/org/springframework/core/io/DefaultResourceLoader.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="22" column="45" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.7.RELEASE/spring-core-4.3.7.RELEASE.jar!/org/springframework/core/type/classreading/SimpleMetadataReaderFactory.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="21" column="101" selection-start-line="21" selection-start-column="101" selection-end-line="21" selection-end-column="101" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.7.RELEASE/spring-core-4.3.7.RELEASE.jar!/org/springframework/core/type/classreading/CachingMetadataReaderFactory.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="27" column="10" lean-forward="true" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.7.RELEASE/spring-context-4.3.7.RELEASE-sources.jar!/org/springframework/context/annotation/ClassPathScanningCandidateComponentProvider.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="238" column="57" selection-start-line="238" selection-start-column="57" selection-end-line="238" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.7.RELEASE/spring-context-4.3.7.RELEASE-sources.jar!/org/springframework/context/annotation/ClassPathBeanDefinitionScanner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -907,8 +907,77 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/chainresponsibility/demo/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        <state relative-caret-position="288">
+          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/chainresponsibility/filter/Filter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/chainresponsibility/filter/Response.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+          <folding>
+            <element signature="e#125#126#0" expanded="true" />
+            <element signature="e#163#164#0" expanded="true" />
+            <element signature="e#123#124#0" expanded="true" />
+            <element signature="e#153#154#0" expanded="true" />
+            <element signature="e#199#200#0" expanded="true" />
+            <element signature="e#237#238#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/chainresponsibility/filter/FilterB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="61" selection-start-line="13" selection-start-column="61" selection-end-line="13" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/chainresponsibility/filter/FilterA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="60" selection-start-line="13" selection-start-column="60" selection-end-line="13" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/chainresponsibility/filter/Request.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#233#234#0" expanded="true" />
+            <element signature="e#121#122#0" expanded="true" />
+            <element signature="e#150#151#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/chainresponsibility/filter/FilterChain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#209#217#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/chainresponsibility/filter/FilterDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
