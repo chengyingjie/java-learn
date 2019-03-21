@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+
+<mapper namespace="com.jesse.learn.mybatis.demo.KolDao">
+
+    <sql id="tableName">
+        spotlight_kol
+    </sql>
+
+    <sql id="fields">
+      id,
+      kdt_id,
+      team_name,
+      name,
+      gender,
+      created_at,
+      updated_at
+    </sql>
+
+    <sql id="setupx">
+        <set>
+            <if test="kdtId != null">
+                kdt_id = #{kdtId},
+            </if>
+            <if test="teamName != null">
+                team_name = #{teamName},
+            </if>
+            <if test="name != null">
+                name = #{name},
+            </if>
+            <if test="gender != null">
+                gender = #{gender},
+            </if>
+        </set>
+    </sql>
+
+    <insert id="insert" useGeneratedKeys="true" keyProperty="id">
+        INSERT INTO
+        <include refid="tableName"></include>
+        <include refid="setupx"></include>
+    </insert>
+
+    <!-- 根据报名表单id集合，批量查询表单属性集合 -->
+    <select id="getKolById" resultType="KolDO">
+        SELECT
+        <include refid="fields"/>
+        FROM
+        <include refid="tableName"/>
+        WHERE id = #{id}
+    </select>
+
+</mapper>
