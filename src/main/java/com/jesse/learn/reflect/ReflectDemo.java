@@ -1,10 +1,9 @@
 package com.jesse.learn.reflect;
 
 
-import java.lang.reflect.Constructor;
-import java.lang.reflect.Field;
-import java.lang.reflect.InvocationTargetException;
-import java.lang.reflect.Method;
+import java.lang.reflect.*;
+import java.security.AccessController;
+import java.security.PrivilegedAction;
 
 /**
  * 反射知识点学习
@@ -93,7 +92,19 @@ public class ReflectDemo {
         Student stu = class1.newInstance();
         stu.setName("chengyingjie");
 
-        field1.setAccessible(true);  //私有变量必须设置访问权限，否则无法直接访问
+        //私有变量必须设置访问权限，否则无法直接访问 方式一
+        if (!Modifier.isPublic(field1.getModifiers())) {
+            AccessController.doPrivileged(new PrivilegedAction<Void>() {
+                public Void run() {
+                    field1.setAccessible(true);
+                    return null;
+                }
+            });
+        }
+
+        //私有变量必须设置访问权限，否则无法直接访问 方式二
+//        field1.setAccessible(true);
+
         System.out.println("name: " + field1.get(stu));
     }
 

@@ -11,8 +11,10 @@ import org.junit.Test;
 
 import java.io.IOException;
 import java.io.Reader;
+import java.util.HashMap;
+import java.util.Map;
 
-public class UserDaoTest {
+public class KolDaoTest {
 
     @Test
     public void findUserById() {
@@ -21,13 +23,16 @@ public class UserDaoTest {
         KolDao kolDao = sqlSession.getMapper(KolDao.class);
         KolDO kolDO = kolDao.getKolById(1L);
         Assert.assertNotNull("没找到数据", kolDO.getName());
+
+        Map<String, String> map = new HashMap<>();
+        map.put("aaa", "bbb");
     }
 
     // Mybatis 通过SqlSessionFactory获取SqlSession, 然后才能通过SqlSession与数据库进行交互
     private static SqlSessionFactory getSessionFactory() {
 
         SqlSessionFactory sessionFactory = null;
-        String resource = "configuration.xml";
+        String resource = "mybatis-config.xml";
 
         try {
             // Resources: MyBatis提供的加载资源文件的工具类

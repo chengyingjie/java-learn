@@ -1,48 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/../owl/owl-web/src/main/java/com/youzan/owl/web/controller/ContentRestController.java" line="105" />
-    <bookmark url="file://$PROJECT_DIR$/../owl/owl-web/src/main/java/com/youzan/owl/web/controller/ContentRestController.java" description="private RiskControlServiceClient riskControlServic..." line="80" />
-    <bookmark url="file://$PROJECT_DIR$/../owl/owl-web/src/main/java/com/youzan/owl/web/controller/ContentRestController.java" description="private ColumnInnerService columnInnerService;" line="77" />
+    <bookmark url="file://$PROJECT_DIR$/../owl/owl-web/src/main/java/com/youzan/owl/web/controller/ContentRestController.java" line="104" />
+    <bookmark url="file://$PROJECT_DIR$/../owl/owl-web/src/main/java/com/youzan/owl/web/controller/ContentRestController.java" description="private RiskControlServiceClient riskControlServic..." line="79" />
+    <bookmark url="file://$PROJECT_DIR$/../owl/owl-web/src/main/java/com/youzan/owl/web/controller/ContentRestController.java" description="private ColumnInnerService columnInnerService;" line="76" />
     <bookmark url="file://$PROJECT_DIR$/../spotlight/spotlight-biz/src/main/java/com/youzan/ebiz/spotlight/biz/service/searchv2/impl/AlgorithmSearchServiceImpl.java" description="}" line="378" />
-    <bookmark url="file://$PROJECT_DIR$/../owl-edu/owl-edu-biz/src/main/java/com/youzan/owl/edu/biz/api/student/StudentFacadeImpl.java" description="@Override" line="56" />
-    <bookmark url="file://$PROJECT_DIR$/../owl-ump/owl-ump-biz/src/main/java/com/youzan/owl/ump/biz/core/reward/SubscribeProductStrategy.java" description="Long userId = user.getId();" line="33" />
+    <bookmark url="file://$PROJECT_DIR$/../owl-edu/owl-edu-biz/src/main/java/com/youzan/owl/edu/biz/api/student/StudentFacadeImpl.java" description="@Override" line="280" />
+    <bookmark url="file://$PROJECT_DIR$/../owl-ump/owl-ump-biz/src/main/java/com/youzan/owl/ump/biz/core/reward/SubscribeProductStrategy.java" description="Long userId = user.getId();" line="42" />
     <bookmark url="file://$PROJECT_DIR$/../spotlight/spotlight-biz/src/main/java/com/youzan/ebiz/spotlight/biz/event/ZeroChargeEventListener.java" description="private static String TOC_TYPE_VISIT = &quot;spotlight_..." line="31" />
     <bookmark url="file://$PROJECT_DIR$/../spotlight-basic/spotlight-basic-biz/src/main/java/com/youzan/ebiz/spotlight/basic/nsq/config/NsqConfiguration.java" description="private String nsqClusterHost;" line="18" />
     <bookmark url="file://$PROJECT_DIR$/../spotlight/spotlight-biz/src/main/java/com/youzan/ebiz/spotlight/biz/nsq/consumer/ScrmAccountBindListener.java" description="logger.info(&quot;手动用户绑定消息, params:{}&quot;, JSON.toJSONStri..." line="32" />
     <bookmark url="file://$PROJECT_DIR$/../spotlight/spotlight-dal/src/main/resources/mapper/miniprogram/FansRelationDAO.xml" line="44" />
     <bookmark url="file://$PROJECT_DIR$/../spotlight/spotlight-dal/src/main/resources/mapper/miniprogram/FansRelationDAO.xml" description="&lt;update id=&quot;updateAdminId&quot;&gt;" line="45" />
+    <bookmark url="file://$PROJECT_DIR$/../owl/owl-biz/src/main/java/com/youzan/owl/biz/service/impl/ContentInnerServiceImpl.java" line="1561" />
+    <bookmark url="file://$PROJECT_DIR$/../owl/owl-biz/src/main/java/com/youzan/owl/biz/service/impl/ContentInnerServiceImpl.java" line="1563" />
+    <bookmark url="file://$PROJECT_DIR$/../owl-ump/owl-ump-dal/src/main/java/com/youzan/owl/ump/dal/dao/exam/ExamDao.java" description="*/" line="29" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9dbc1bd-efec-478a-a115-cc79d0765b42" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/common/dto/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/common/service/PersonService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/common/service/PersonServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/singleton/DoubleCheckSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/mybatis/custom/CustomConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/mybatis/custom/CustomDefaultExecutor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/mybatis/custom/CustomExecutor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/mybatis/custom/CustomSqlSession.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/mybatis/custom/MapperProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/mybatis/custom/MapperRegistory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/mybatis/custom/TestMybatis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/mybatis/demo/KolDO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/mybatis/demo/KolDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/mybatis/demo/KolDao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/proxy/JdkProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/proxy/ProxyDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/thread/CountdownLatchDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/thread/EndAtTheSameTimeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/thread/LoopPrintABC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/thread/ProductConsumeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/thread/StartAtTheSameTimeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/utils/ApplicationContextHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/configuration.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/dbConfig.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/mybatis/UserDaoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/dubbo/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/dubbo/JavaSpi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/dubbo/javaspi/Bumblebee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/dubbo/javaspi/OptimusPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/dubbo/javaspi/Robot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/proxy/CglibProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/services/com.jesse.learn.dubbo.javaspi.Robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dubbo/JavaSPITest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jesse/learn/spring/BeanDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/spring/BeanDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jesse/learn/common/service/PersonService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/common/service/PersonService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jesse/learn/common/service/PersonServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/common/service/PersonServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jesse/learn/proxy/JdkProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/proxy/JdkProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jesse/learn/proxy/ProxyDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/proxy/ProxyDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jesse/learn/reflect/ReflectDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/reflect/ReflectDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/configuration.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/mybatis/UserDaoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/mybatis/KolDaoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/common/dto/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/common/dto/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/common/service/PersonService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/common/service/PersonService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/common/service/PersonServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/common/service/PersonServiceImpl.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/designpattern/chainresponsibility/demo/AbstractHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/designpattern/chainresponsibility/demo/AbstractHandler.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/designpattern/chainresponsibility/demo/ConcreteOneHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/designpattern/chainresponsibility/demo/ConcreteOneHandler.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/designpattern/chainresponsibility/demo/ConcreteThreeHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/designpattern/chainresponsibility/demo/ConcreteThreeHandler.class" afterDir="false" />
@@ -55,18 +50,47 @@
       <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/designpattern/chainresponsibility/filter/FilterDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/designpattern/chainresponsibility/filter/FilterDemo.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/designpattern/chainresponsibility/filter/Request.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/designpattern/chainresponsibility/filter/Request.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/designpattern/chainresponsibility/filter/Response.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/designpattern/chainresponsibility/filter/Response.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/designpattern/singleton/DoubleCheckSingleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/designpattern/singleton/DoubleCheckSingleton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/mybatis/custom/CustomConfiguration.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/mybatis/custom/CustomConfiguration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/mybatis/custom/CustomDefaultExecutor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/mybatis/custom/CustomDefaultExecutor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/mybatis/custom/CustomExecutor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/mybatis/custom/CustomExecutor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/mybatis/custom/CustomSqlSession.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/mybatis/custom/CustomSqlSession.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/mybatis/custom/MapperProxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/mybatis/custom/MapperProxy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/mybatis/custom/MapperRegistory$MapperProxyFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/mybatis/custom/MapperRegistory$MapperProxyFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/mybatis/custom/MapperRegistory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/mybatis/custom/MapperRegistory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/mybatis/custom/TestMybatis.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/mybatis/custom/TestMybatis.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/mybatis/demo/KolDO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/mybatis/demo/KolDO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/mybatis/demo/KolDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/mybatis/demo/KolDao.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/polymorphic/BaseDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/polymorphic/BaseDTO.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/polymorphic/ChildDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/polymorphic/ChildDTO.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/polymorphic/Demo$Base.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/polymorphic/Demo$Base.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/polymorphic/Demo$SubBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/polymorphic/Demo$SubBase.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/polymorphic/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/polymorphic/Demo.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/polymorphic/StaticBindDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/polymorphic/StaticBindDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/proxy/JdkProxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/proxy/JdkProxy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/proxy/ProxyDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/proxy/ProxyDemo.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/reflect/ReflectDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/reflect/ReflectDemo.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/reflect/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/reflect/Student.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/spring/AdviceAnimalClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/spring/AdviceAnimalClient.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/spring/AnimalService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/spring/AnimalService.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/spring/AnimalServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/spring/AnimalServiceImpl.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/spring/BeanDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/spring/BeanDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/thread/CountdownLatchDemo$LatchThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/thread/CountdownLatchDemo$LatchThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/thread/CountdownLatchDemo$MyLatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/thread/CountdownLatchDemo$MyLatch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/thread/CountdownLatchDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/thread/CountdownLatchDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/thread/EndAtTheSameTimeDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/thread/EndAtTheSameTimeDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/thread/LoopPrintABC$PrintTread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/thread/LoopPrintABC$PrintTread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/thread/LoopPrintABC.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/thread/LoopPrintABC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/thread/ProductConsumeDemo$ConsumeThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/thread/ProductConsumeDemo$ConsumeThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/thread/ProductConsumeDemo$MyQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/thread/ProductConsumeDemo$MyQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/thread/ProductConsumeDemo$ProductThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/thread/ProductConsumeDemo$ProductThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/thread/ProductConsumeDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/thread/ProductConsumeDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/thread/StartAtTheSameTimeDemo$WaitCondition.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/thread/StartAtTheSameTimeDemo$WaitCondition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/thread/StartAtTheSameTimeDemo$WaitThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/thread/StartAtTheSameTimeDemo$WaitThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/thread/StartAtTheSameTimeDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/thread/StartAtTheSameTimeDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/utils/ApplicationContextHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/utils/ApplicationContextHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/configuration.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/mybatis/UserDaoTest.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -84,11 +108,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="UserDaoTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/mybatis/UserDaoTest.java">
+      <file leaf-file-name="JdkProxy.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/proxy/JdkProxy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+            <state relative-caret-position="-133">
+              <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CglibProxy.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/proxy/CglibProxy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -96,121 +129,74 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="configuration.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/configuration.xml">
+      <file leaf-file-name="MethodProxy.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.7.RELEASE/spring-core-4.3.7.RELEASE.jar!/org/springframework/cglib/proxy/MethodProxy.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="16" column="15" lean-forward="true" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+            <state relative-caret-position="108">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="KolDao.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/mybatis/demo/KolDao.xml">
+      <file leaf-file-name="MethodInterceptor.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.7.RELEASE/spring-core-4.3.7.RELEASE.jar!/org/springframework/cglib/proxy/MethodInterceptor.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="23" column="17" lean-forward="true" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+            <state relative-caret-position="108">
+              <caret line="9" column="47" lean-forward="true" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DefaultSqlSession.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/session/defaults/DefaultSqlSession.java">
+      <file leaf-file-name="Callback.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.7.RELEASE/spring-core-4.3.7.RELEASE.jar!/org/springframework/cglib/proxy/Callback.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="96" column="28" selection-start-line="96" selection-start-column="28" selection-end-line="96" selection-end-column="28" />
-              <folding>
-                <element signature="e#5175#5176#0" expanded="true" />
-                <element signature="e#5220#5221#0" expanded="true" />
-                <element signature="e#7203#7204#0" expanded="true" />
-                <element signature="e#7258#7259#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="72">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SqlSession.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/session/SqlSession.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Configuration.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/session/Configuration.java">
+      <file leaf-file-name="ProxyDemo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/proxy/ProxyDemo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="311">
-              <caret line="654" column="30" selection-start-line="654" selection-start-column="30" selection-end-line="654" selection-end-column="30" />
-              <folding>
-                <element signature="e#6998#7006#0" expanded="true" />
-                <element signature="e#11416#11417#0" expanded="true" />
-                <element signature="e#11455#11456#0" expanded="true" />
-                <element signature="e#11509#11510#0" expanded="true" />
-                <element signature="e#11560#11561#0" expanded="true" />
-                <element signature="e#13408#13409#0" expanded="true" />
-                <element signature="e#13444#13445#0" expanded="true" />
-                <element signature="e#18280#18281#0" expanded="true" />
-                <element signature="e#18325#18326#0" expanded="true" />
-                <element signature="e#20132#20133#0" expanded="true" />
-                <element signature="e#20178#20179#0" expanded="true" />
-                <element signature="e#21707#21708#0" expanded="true" />
-                <element signature="e#21736#21737#0" expanded="true" />
-                <element signature="e#22222#22223#0" expanded="true" />
-                <element signature="e#22281#22282#0" expanded="true" />
-              </folding>
+              <caret line="39" column="70" selection-start-line="39" selection-start-column="70" selection-end-line="39" selection-end-column="70" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MapperRegistry.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/binding/MapperRegistry.java">
+      <file leaf-file-name="Proxy.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/reflect/Proxy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="48" column="35" selection-start-line="48" selection-start-column="35" selection-end-line="48" selection-end-column="35" />
-              <folding>
-                <element signature="e#1245#1278#0" expanded="true" />
-                <element signature="e#1329#1330#0" expanded="true" />
-                <element signature="e#1359#1360#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="375">
+              <caret line="418" column="33" selection-start-line="418" selection-start-column="33" selection-end-line="418" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MapperProxyFactory.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/binding/MapperProxyFactory.java">
+      <file leaf-file-name="WeakCache.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/reflect/WeakCache.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="45" column="33" selection-start-line="45" selection-start-column="33" selection-end-line="45" selection-end-column="33" />
-              <folding>
-                <element signature="e#1128#1129#0" expanded="true" />
-                <element signature="e#1176#1177#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="1662">
+              <caret line="123" column="22" lean-forward="true" selection-start-line="123" selection-start-column="22" selection-end-line="123" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MapperProxy.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/binding/MapperProxy.java">
+      <file leaf-file-name="Supplier.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/function/Supplier.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="558">
-              <caret line="51" column="28" selection-start-line="51" selection-start-column="28" selection-end-line="51" selection-end-column="28" />
+            <state relative-caret-position="432">
+              <caret line="47" column="6" selection-start-line="47" selection-start-column="6" selection-end-line="47" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MapperMethod.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/binding/MapperMethod.java">
+      <file leaf-file-name="Map.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/Map.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="567">
-              <caret line="67" column="33" selection-start-line="67" selection-start-column="33" selection-end-line="67" selection-end-column="33" />
-              <folding>
-                <element signature="e#10470#10471#0" expanded="true" />
-                <element signature="e#10519#10520#0" expanded="true" />
-                <element signature="e#10974#10975#0" expanded="true" />
-                <element signature="e#11006#11007#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="213">
+              <caret line="211" column="6" selection-start-line="211" selection-start-column="6" selection-end-line="211" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -239,6 +225,8 @@
       <find>parseResultMap</find>
       <find>addMapper</find>
       <find>na\\\</find>
+      <find>proxyClassCache.get</find>
+      <find>ProxyClassFactory</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -250,23 +238,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/chainresponsibility/demo/Demo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/chainresponsibility/filter/FilterDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/chainresponsibility/filter/Request.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/chainresponsibility/filter/Response.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/chainresponsibility/filter/Filter.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/chainresponsibility/filter/FilterA.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/chainresponsibility/filter/FilterB.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/chainresponsibility/filter/FilterChain.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/spring/BeanDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/proxy/JdkProxy.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/proxy/Person.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/dto/Person.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/common/service/PersonService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/common/service/PersonServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/proxy/ProxyDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/thread/ThreadDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/thread/LoopPrintABC.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/thread/PrintABC.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/thread/StartAtTheSameTimeDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/thread/EndAtTheSameTimeDemo.java" />
@@ -274,7 +245,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/singleton/DoubleCheckDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/singleton/DoubleCheckSingleton.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/thread/ProductConsumeDemo.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/mybatis/UserDaoTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/mybatis/KolDO.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/mybatis/KolDao.java" />
@@ -299,8 +269,26 @@
         <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/mybatis/demo/KolDao.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/mybatis/custom/CustomConfiguration.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/mybatis/custom/CustomDefaultExecutor.java" />
-        <option value="$PROJECT_DIR$/src/test/java/mybatis/UserDaoTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/mybatis/demo/KolDao.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/mybatis/UserDaoTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/dubbo/Demo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/dubbo/JavaSpi.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/dubbo/javaspi/Robot.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/dubbo/javaspi/Bumblebee.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/dubbo/javaspi/OptimusPrime.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/META-INF/services/com.jesse.learn.dubbo.javaspi.Robot" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/dubbo/javaspi/JavaSpiDemo.java" />
+        <option value="$PROJECT_DIR$/src/test/java/mybatis/KolDaoTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/common/dto/Student.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/common/dto/StudentPerson.java" />
+        <option value="$PROJECT_DIR$/src/test/java/dubbo/JavaSPITest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/common/service/PersonService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/common/service/PersonServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/reflect/ReflectDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/proxy/JdkProxy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/proxy/CglibProxy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/proxy/ProxyDemo.java" />
       </list>
     </option>
   </component>
@@ -321,10 +309,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="259" />
-    <option name="y" value="315" />
-    <option name="width" value="1522" />
-    <option name="height" value="961" />
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -332,6 +318,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -372,7 +360,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="learn" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-learn" type="b2602c69:ProjectViewProjectNode" />
@@ -381,8 +369,8 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="learn" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
-              <item name="custom" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="dto" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-learn" type="b2602c69:ProjectViewProjectNode" />
@@ -391,8 +379,26 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="learn" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-learn" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="learn" type="462c0819:PsiDirectoryNode" />
+              <item name="proxy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-learn" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="learn" type="462c0819:PsiDirectoryNode" />
+              <item name="reflect" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-learn" type="b2602c69:ProjectViewProjectNode" />
@@ -403,82 +409,132 @@
             </path>
             <path>
               <item name="java-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-learn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-learn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-learn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-learn" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
             <path>
               <item name="java-learn" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.mybatis:mybatis:3.2.6" type="70bed36:NamedLibraryElementNode" />
+              <item name="Maven: com.alibaba:dubbo:3.1.7-RELEASE" type="70bed36:NamedLibraryElementNode" />
             </path>
             <path>
               <item name="java-learn" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.mybatis:mybatis:3.2.6" type="70bed36:NamedLibraryElementNode" />
-              <item name="mybatis-3.2.6.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="Maven: com.alibaba:dubbo:3.1.7-RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="dubbo-3.1.7-RELEASE.jar" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-learn" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.mybatis:mybatis:3.2.6" type="70bed36:NamedLibraryElementNode" />
-              <item name="mybatis-3.2.6.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="ibatis" type="462c0819:PsiDirectoryNode" />
+              <item name="Maven: com.alibaba:dubbo:3.1.7-RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="dubbo-3.1.7-RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-learn" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.mybatis:mybatis:3.2.6" type="70bed36:NamedLibraryElementNode" />
-              <item name="mybatis-3.2.6.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="ibatis" type="462c0819:PsiDirectoryNode" />
-              <item name="builder" type="462c0819:PsiDirectoryNode" />
+              <item name="Maven: com.alibaba:dubbo:3.1.7-RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="dubbo-3.1.7-RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="alibaba" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-learn" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.mybatis:mybatis:3.2.6" type="70bed36:NamedLibraryElementNode" />
-              <item name="mybatis-3.2.6.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="ibatis" type="462c0819:PsiDirectoryNode" />
-              <item name="builder" type="462c0819:PsiDirectoryNode" />
-              <item name="xml" type="462c0819:PsiDirectoryNode" />
+              <item name="Maven: com.alibaba:dubbo:3.1.7-RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="dubbo-3.1.7-RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="alibaba" type="462c0819:PsiDirectoryNode" />
+              <item name="dubbo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.alibaba:dubbo:3.1.7-RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="dubbo-3.1.7-RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="alibaba" type="462c0819:PsiDirectoryNode" />
+              <item name="dubbo" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.alibaba:dubbo:3.1.7-RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="dubbo-3.1.7-RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="alibaba" type="462c0819:PsiDirectoryNode" />
+              <item name="dubbo" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="threadpool" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.alibaba:dubbo:3.1.7-RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="dubbo-3.1.7-RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="alibaba" type="462c0819:PsiDirectoryNode" />
+              <item name="dubbo" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="threadpool" type="462c0819:PsiDirectoryNode" />
+              <item name="support" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.alibaba:dubbo:3.1.7-RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="dubbo-3.1.7-RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="alibaba" type="462c0819:PsiDirectoryNode" />
+              <item name="dubbo" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="threadpool" type="462c0819:PsiDirectoryNode" />
+              <item name="support" type="462c0819:PsiDirectoryNode" />
+              <item name="cached" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.alibaba:dubbo:3.1.7-RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="dubbo-3.1.7-RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="alibaba" type="462c0819:PsiDirectoryNode" />
+              <item name="dubbo" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="threadpool" type="462c0819:PsiDirectoryNode" />
+              <item name="support" type="462c0819:PsiDirectoryNode" />
+              <item name="fixed" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.alibaba:dubbo:3.1.7-RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="dubbo-3.1.7-RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="alibaba" type="462c0819:PsiDirectoryNode" />
+              <item name="dubbo" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="threadpool" type="462c0819:PsiDirectoryNode" />
+              <item name="support" type="462c0819:PsiDirectoryNode" />
+              <item name="limited" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="config&#9;FILE&#9;jar:///Users/chengyingjie/.m2/repository/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/session/Configuration.java&#10;MapperProxyFactory&#9;FILE&#9;jar:///Users/chengyingjie/.m2/repository/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/binding/MapperProxyFactory.java&#10;Configuration&#9;FILE&#9;jar:///Users/chengyingjie/.m2/repository/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/session/Configuration.java&#10;beandefinit&#9;PSI&#9;JAVA://org.springframework.beans.factory.config.BeanDefinition&#10;AopNamespaceHandle&#9;PSI&#9;JAVA://org.springframework.aop.config.AopNamespaceHandler" />
+    <property name="SearchEverywhereHistoryKey" value="FixedThreadPool&#9;PSI&#9;JAVA://com.alibaba.dubbo.common.threadpool.support.fixed.FixedThreadPool&#10;ThreadPool&#9;PSI&#9;JAVA://com.alibaba.dubbo.common.threadpool.ThreadPool&#10;config&#9;FILE&#9;jar:///Users/chengyingjie/.m2/repository/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/session/Configuration.java&#10;MapperProxyFactory&#9;FILE&#9;jar:///Users/chengyingjie/.m2/repository/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/binding/MapperProxyFactory.java&#10;Configuration&#9;FILE&#9;jar:///Users/chengyingjie/.m2/repository/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/session/Configuration.java&#10;beandefinit&#9;PSI&#9;JAVA://org.springframework.beans.factory.config.BeanDefinition&#10;AopNamespaceHandle&#9;PSI&#9;JAVA://org.springframework.aop.config.AopNamespaceHandler" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
@@ -505,18 +561,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestMybatis">
-    <configuration name="CountdownLatchDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jesse.learn.thread.CountdownLatchDemo" />
-      <module name="java-learn" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jesse.learn.thread.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="Application.ProxyDemo">
     <configuration name="ProductConsumeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jesse.learn.thread.ProductConsumeDemo" />
       <module name="java-learn" />
@@ -528,13 +573,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="StartAtTheSameTimeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jesse.learn.thread.StartAtTheSameTimeDemo" />
+    <configuration name="ProxyDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jesse.learn.proxy.ProxyDemo" />
       <module name="java-learn" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jesse.learn.thread.*" />
+          <option name="PATTERN" value="com.jesse.learn.proxy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -553,7 +598,30 @@
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="UserDaoTest.findUserById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="JavaSPITest.sayHello" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dubbo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="dubbo" />
+      <option name="MAIN_CLASS_NAME" value="dubbo.JavaSPITest" />
+      <option name="METHOD_NAME" value="sayHello" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="KolDaoTest.findUserById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-learn" />
       <extension name="coverage">
         <pattern>
@@ -564,7 +632,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="mybatis" />
-      <option name="MAIN_CLASS_NAME" value="mybatis.UserDaoTest" />
+      <option name="MAIN_CLASS_NAME" value="mybatis.KolDaoTest" />
       <option name="METHOD_NAME" value="findUserById" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -616,18 +684,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.ProductConsumeDemo" />
-      <item itemvalue="Application.StartAtTheSameTimeDemo" />
-      <item itemvalue="Application.CountdownLatchDemo" />
-      <item itemvalue="JUnit.UserDaoTest.findUserById" />
+      <item itemvalue="JUnit.KolDaoTest.findUserById" />
       <item itemvalue="Application.TestMybatis" />
+      <item itemvalue="JUnit.JavaSPITest.sayHello" />
+      <item itemvalue="Application.ProxyDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProxyDemo" />
+        <item itemvalue="JUnit.JavaSPITest.sayHello" />
         <item itemvalue="Application.TestMybatis" />
-        <item itemvalue="JUnit.UserDaoTest.findUserById" />
+        <item itemvalue="JUnit.KolDaoTest.findUserById" />
         <item itemvalue="Application.ProductConsumeDemo" />
-        <item itemvalue="Application.CountdownLatchDemo" />
-        <item itemvalue="Application.StartAtTheSameTimeDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -651,7 +719,30 @@
       <workItem from="1550801122234" duration="575000" />
       <workItem from="1551022474165" duration="15221000" />
       <workItem from="1551957287807" duration="48854000" />
-      <workItem from="1552960282904" duration="25744000" />
+      <workItem from="1552960282904" duration="34152000" />
+      <workItem from="1553518247906" duration="1143000" />
+      <workItem from="1553743466967" duration="5743000" />
+      <workItem from="1554086220378" duration="9913000" />
+      <workItem from="1554860055686" duration="4519000" />
+      <workItem from="1555321784161" duration="3471000" />
+      <workItem from="1555905073137" duration="4631000" />
+      <workItem from="1557020316352" duration="502000" />
+      <workItem from="1557045293965" duration="1197000" />
+      <workItem from="1557295571331" duration="13762000" />
+      <workItem from="1558096516718" duration="1563000" />
+      <workItem from="1559218634503" duration="2585000" />
+      <workItem from="1559822255808" duration="2224000" />
+      <workItem from="1560937145576" duration="1542000" />
+      <workItem from="1561266221226" duration="9990000" />
+      <workItem from="1561944914787" duration="3199000" />
+      <workItem from="1562286147365" duration="188000" />
+      <workItem from="1562548802053" duration="5391000" />
+      <workItem from="1562723153237" duration="2244000" />
+      <workItem from="1563241056911" duration="594000" />
+      <workItem from="1564197626986" duration="14000" />
+      <workItem from="1564203772628" duration="1293000" />
+      <workItem from="1564453421231" duration="2522000" />
+      <workItem from="1564882424146" duration="4908000" />
     </task>
     <servers />
   </component>
@@ -665,9 +756,12 @@
     <history-entry file="UserDaoTest_findUserById - 2019.03.15 at 16h 23m 26s.xml">
       <configuration name="UserDaoTest.findUserById" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="JavaSPITest_sayHello - 2019.03.24 at 20h 15m 18s.xml">
+      <configuration name="JavaSPITest.sayHello" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="135635000" />
+    <option name="totallyTimeSpent" value="227181000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -684,7 +778,7 @@
       <window_info anchor="right" id="News Feed" order="3" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.37655172" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.37606838" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.32965517" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
@@ -694,9 +788,9 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32965517" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20274636" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22051696" />
       <window_info anchor="bottom" id="Reviews" order="7" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="BPMNPalette" order="4" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -705,6 +799,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -715,7 +810,15 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="26" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/jesse/learn/proxy/CglibProxy.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="27" />
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
@@ -753,50 +856,17 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/executor/loader/javassist/JavassistProxyFactory.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/binding/MapperMethod.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-567">
-          <caret line="44" column="87" selection-start-line="44" selection-start-column="87" selection-end-line="44" selection-end-column="87" />
+        <state relative-caret-position="567">
+          <caret line="67" column="33" selection-start-line="67" selection-start-column="33" selection-end-line="67" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/annotations/Lang.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/session/defaults/DefaultSqlSession.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="27" column="18" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/scripting/LanguageDriverRegistry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="48" column="26" lean-forward="true" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
-          <folding>
-            <element signature="e#850#876#0" expanded="true" />
-            <element signature="e#1638#1639#0" expanded="true" />
-            <element signature="e#1683#1684#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/builder/MapperBuilderAssistant.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="489" column="51" selection-start-line="489" selection-start-column="51" selection-end-line="489" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/builder/annotation/MapperAnnotationBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="123" column="23" selection-start-line="123" selection-start-column="23" selection-end-line="123" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/mybatis/custom/TestDTO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        <state relative-caret-position="460">
+          <caret line="96" column="28" selection-start-line="96" selection-start-column="28" selection-end-line="96" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -807,409 +877,335 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/sql/Connection.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/mybatis/demo/KolDao.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="137" column="22" selection-start-line="137" selection-start-column="22" selection-end-line="137" selection-end-column="22" />
+        <state relative-caret-position="324">
+          <caret line="18" column="10" lean-forward="true" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/Class.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/dubbo/javaspi/JavaSpiDemo.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/ServiceLoader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="392" column="13" selection-start-line="392" selection-start-column="13" selection-end-line="392" selection-end-column="13" />
+        <state relative-caret-position="161">
+          <caret line="184" column="19" selection-start-line="184" selection-start-column="19" selection-end-line="184" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/dbConfig.properties">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35154">
+          <caret line="2030" column="24" selection-start-line="2030" selection-start-column="24" selection-end-line="2030" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/3.1.7-RELEASE/dubbo-3.1.7-RELEASE.jar!/com/alibaba/dubbo/common/threadpool/support/AbortPolicyWithReport.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="14" column="49" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/3.1.7-RELEASE/dubbo-3.1.7-RELEASE.jar!/com/alibaba/dubbo/common/threadpool/ThreadPool.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/3.1.7-RELEASE/dubbo-3.1.7-RELEASE.jar!/com/alibaba/dubbo/common/threadpool/support/fixed/FixedThreadPool.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/3.1.7-RELEASE/dubbo-3.1.7-RELEASE.jar!/com/alibaba/dubbo/common/threadpool/support/cached/CachedThreadPool.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/3.1.7-RELEASE/dubbo-3.1.7-RELEASE.jar!/com/alibaba/dubbo/common/threadpool/support/limited/LimitedThreadPool.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/AbstractMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3240">
+          <caret line="207" column="13" selection-start-line="207" selection-start-column="13" selection-end-line="207" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10188">
+          <caret line="610" column="25" selection-start-line="610" selection-start-column="25" selection-end-line="610" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/common/dto/Student.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/common/dto/StudentPerson.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/reflect/Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9936">
+          <caret line="620" column="36" selection-start-line="620" selection-start-column="36" selection-end-line="620" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/thread/LoopPrintABC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/thread/ProductConsumeDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/Iterable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="71" column="17" selection-start-line="71" selection-start-column="17" selection-end-line="71" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/dubbo/javaspi/Bumblebee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/dubbo/javaspi/OptimusPrime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/dubbo/javaspi/Robot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/dubbo/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/dubbo/JavaSpi.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/mybatis/custom/CustomExecutor.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/services/com.jesse.learn.dubbo.javaspi.Robot">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        <state relative-caret-position="18">
+          <caret line="1" column="42" selection-start-line="1" selection-start-column="42" selection-end-line="1" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/mybatis/custom/CustomSqlSession.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/dubbo/JavaSPITest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="31" lean-forward="true" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
-          <folding>
-            <element signature="e#437#438#0" expanded="true" />
-            <element signature="e#473#474#0" expanded="true" />
-            <element signature="e#565#566#0" expanded="true" />
-            <element signature="e#624#625#0" expanded="true" />
-            <element signature="e#725#726#0" expanded="true" />
-            <element signature="e#784#785#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/mybatis/custom/CustomConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+        <state relative-caret-position="270">
+          <caret line="19" column="15" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/mybatis/KolDaoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="42" column="10" selection-start-line="42" selection-start-column="10" selection-end-line="42" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/mybatis/custom/MapperProxy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#270#271#0" expanded="true" />
-            <element signature="e#314#315#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="324">
+          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/mybatis/custom/MapperRegistory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="38" column="121" lean-forward="true" selection-start-line="38" selection-start-column="121" selection-end-line="38" selection-end-column="121" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#255#285#0" expanded="true" />
-            <element signature="e#335#336#0" expanded="true" />
-            <element signature="e#405#406#0" expanded="true" />
-            <element signature="e#996#997#0" expanded="true" />
-            <element signature="e#1058#1059#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="72">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6.jar!/org/apache/ibatis/session/SqlSessionFactoryBuilder.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/executor/BatchExecutor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
-          <folding>
-            <element signature="e#1882#1883#0" expanded="true" />
-            <element signature="e#1925#1926#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/mapping/SqlCommandType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/sql/DriverManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="235" column="29" selection-start-line="235" selection-start-column="29" selection-end-line="235" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.12/mysql-connector-java-5.1.12.jar!/com/mysql/jdbc/jdbc2/optional/MysqlDataSource.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="41" column="22" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/mybatis/custom/TestMybatis.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/mybatis/custom/CustomDefaultExecutor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
-          <caret line="28" column="35" lean-forward="true" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/builder/xml/XMLConfigBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="625">
-          <caret line="123" column="30" selection-start-line="123" selection-start-column="30" selection-end-line="123" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/executor/loader/ProxyFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/executor/result/DefaultMapResultHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="47" column="22" lean-forward="true" selection-start-line="47" selection-start-column="22" selection-end-line="47" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.12/mysql-connector-java-5.1.12.jar!/com/mysql/jdbc/StatementImpl.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="262" column="19" selection-start-line="262" selection-start-column="19" selection-end-line="262" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/executor/statement/SimpleStatementHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="487">
-          <caret line="71" column="18" lean-forward="true" selection-start-line="71" selection-start-column="18" selection-end-line="71" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/executor/SimpleExecutor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="53" column="21" selection-start-line="53" selection-start-column="21" selection-end-line="53" selection-end-column="21" />
-          <folding>
-            <element signature="e#1372#1373#0" expanded="true" />
-            <element signature="e#1415#1416#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/executor/BaseExecutor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
-          <caret line="119" column="15" selection-start-line="119" selection-start-column="15" selection-end-line="119" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/io/ClassLoaderWrapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="77" column="24" selection-start-line="77" selection-start-column="24" selection-end-line="77" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/io/Resources.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="151" column="23" selection-start-line="151" selection-start-column="23" selection-end-line="151" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/session/SqlSessionFactoryBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="79" column="15" selection-start-line="79" selection-start-column="15" selection-end-line="79" selection-end-column="15" />
-          <folding>
-            <element signature="e#1192#1193#0" expanded="true" />
-            <element signature="e#1234#1235#0" expanded="true" />
-            <element signature="e#2996#2997#0" expanded="true" />
-            <element signature="e#3049#3050#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6.jar!/org/apache/ibatis/transaction/managed/ManagedTransactionFactory.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/mapping/Environment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="717">
-          <caret line="77" column="28" selection-start-line="77" selection-start-column="28" selection-end-line="77" selection-end-column="28" />
-          <folding>
-            <element signature="e#2293#2294#0" expanded="true" />
-            <element signature="e#2333#2334#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/transaction/jdbc/JdbcTransaction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="50" column="18" lean-forward="true" selection-start-line="50" selection-start-column="18" selection-end-line="50" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/transaction/jdbc/JdbcTransactionFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="44" column="23" selection-start-line="44" selection-start-column="23" selection-end-line="44" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/session/ExecutorType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="21" column="2" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/session/defaults/DefaultSqlSessionFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="45" column="60" selection-start-line="45" selection-start-column="60" selection-end-line="45" selection-end-column="60" />
-          <folding>
-            <element signature="e#1589#1590#0" expanded="true" />
-            <element signature="e#1633#1634#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/session/SqlSessionFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/session/SqlSessionManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="843">
-          <caret line="196" column="13" selection-start-line="196" selection-start-column="13" selection-end-line="196" selection-end-column="13" />
-          <folding>
-            <element signature="e#6879#6880#0" expanded="true" />
-            <element signature="e#6940#6941#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/session/SqlSession.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/common/dto/Person.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
-          <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/session/Configuration.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/Objects.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="654" column="30" selection-start-line="654" selection-start-column="30" selection-end-line="654" selection-end-column="30" />
+        <state relative-caret-position="213">
+          <caret line="200" column="24" selection-start-line="200" selection-start-column="24" selection-end-line="200" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar!/sun/reflect/misc/ReflectUtil.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="152" column="23" selection-start-line="152" selection-start-column="23" selection-end-line="152" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/common/service/PersonService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/common/service/PersonServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="17" />
           <folding>
-            <element signature="e#6998#7006#0" expanded="true" />
-            <element signature="e#11416#11417#0" expanded="true" />
-            <element signature="e#11455#11456#0" expanded="true" />
-            <element signature="e#11509#11510#0" expanded="true" />
-            <element signature="e#11560#11561#0" expanded="true" />
-            <element signature="e#13408#13409#0" expanded="true" />
-            <element signature="e#13444#13445#0" expanded="true" />
-            <element signature="e#18280#18281#0" expanded="true" />
-            <element signature="e#18325#18326#0" expanded="true" />
-            <element signature="e#20132#20133#0" expanded="true" />
-            <element signature="e#20178#20179#0" expanded="true" />
-            <element signature="e#21707#21708#0" expanded="true" />
-            <element signature="e#21736#21737#0" expanded="true" />
-            <element signature="e#22222#22223#0" expanded="true" />
-            <element signature="e#22281#22282#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#193#194#0" expanded="true" />
+            <element signature="e#220#221#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/binding/MapperRegistry.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="48" column="35" selection-start-line="48" selection-start-column="35" selection-end-line="48" selection-end-column="35" />
-          <folding>
-            <element signature="e#1245#1278#0" expanded="true" />
-            <element signature="e#1329#1330#0" expanded="true" />
-            <element signature="e#1359#1360#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="218">
+          <caret line="210" column="12" selection-start-line="210" selection-start-column="12" selection-end-line="210" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/binding/MapperProxyFactory.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/Class.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="45" column="33" selection-start-line="45" selection-start-column="33" selection-end-line="45" selection-end-column="33" />
-          <folding>
-            <element signature="e#1128#1129#0" expanded="true" />
-            <element signature="e#1176#1177#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="221">
+          <caret line="118" column="19" selection-start-line="118" selection-start-column="19" selection-end-line="118" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/binding/MapperProxy.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/security/AccessController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="51" column="28" selection-start-line="51" selection-start-column="28" selection-end-line="51" selection-end-column="28" />
+        <state relative-caret-position="213">
+          <caret line="297" column="31" selection-start-line="297" selection-start-column="31" selection-end-line="297" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/binding/MapperMethod.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/reflect/ReflectDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="67" column="33" selection-start-line="67" selection-start-column="33" selection-end-line="67" selection-end-column="33" />
-          <folding>
-            <element signature="e#10470#10471#0" expanded="true" />
-            <element signature="e#10519#10520#0" expanded="true" />
-            <element signature="e#10974#10975#0" expanded="true" />
-            <element signature="e#11006#11007#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/session/defaults/DefaultSqlSession.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="96" column="28" selection-start-line="96" selection-start-column="28" selection-end-line="96" selection-end-column="28" />
-          <folding>
-            <element signature="e#5175#5176#0" expanded="true" />
-            <element signature="e#5220#5221#0" expanded="true" />
-            <element signature="e#7203#7204#0" expanded="true" />
-            <element signature="e#7258#7259#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/mybatis/UserDaoTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+        <state relative-caret-position="291">
+          <caret line="95" column="26" lean-forward="true" selection-start-line="95" selection-start-column="26" selection-end-line="95" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/configuration.xml">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/reflect/Constructor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="15" lean-forward="true" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+        <state relative-caret-position="221">
+          <caret line="405" column="13" selection-start-line="405" selection-start-column="13" selection-end-line="405" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/mybatis/demo/KolDao.xml">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/function/Supplier.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="23" column="17" lean-forward="true" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+        <state relative-caret-position="432">
+          <caret line="47" column="6" selection-start-line="47" selection-start-column="6" selection-end-line="47" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="211" column="6" selection-start-line="211" selection-start-column="6" selection-end-line="211" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/reflect/Proxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="418" column="33" selection-start-line="418" selection-start-column="33" selection-end-line="418" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/reflect/WeakCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1662">
+          <caret line="123" column="22" lean-forward="true" selection-start-line="123" selection-start-column="22" selection-end-line="123" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/proxy/JdkProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-133">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.7.RELEASE/spring-core-4.3.7.RELEASE.jar!/org/springframework/cglib/proxy/Callback.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.7.RELEASE/spring-core-4.3.7.RELEASE.jar!/org/springframework/cglib/proxy/MethodInterceptor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="9" column="47" lean-forward="true" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.7.RELEASE/spring-core-4.3.7.RELEASE.jar!/org/springframework/cglib/proxy/MethodProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/proxy/CglibProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/proxy/ProxyDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="39" column="70" selection-start-line="39" selection-start-column="70" selection-end-line="39" selection-end-column="70" />
         </state>
       </provider>
     </entry>
