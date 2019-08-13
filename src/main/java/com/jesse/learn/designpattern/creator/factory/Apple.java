@@ -1,4 +1,4 @@
-package com.jesse.learn.designpattern.creator;
+package com.jesse.learn.designpattern.creator.factory;
 
 public class Apple implements Fruit {
 

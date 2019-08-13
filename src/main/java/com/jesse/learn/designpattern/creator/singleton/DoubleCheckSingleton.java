@@ -1,4 +1,4 @@
-package com.jesse.learn.designpattern.singleton;
+package com.jesse.learn.designpattern.creator.singleton;
 
 public class DoubleCheckSingleton {
 

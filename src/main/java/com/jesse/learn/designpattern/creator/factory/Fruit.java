@@ -1,6 +1,6 @@
 package com.jesse.learn.designpattern.creator.factory;
 
-public interface Factory {
+public interface Fruit {
 
-    Fruit createFruit();
+    String desc();
 }

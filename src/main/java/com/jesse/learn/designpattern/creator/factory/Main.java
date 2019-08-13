@@ -1,7 +1,5 @@
 package com.jesse.learn.designpattern.creator.factory;
 
-import com.jesse.learn.designpattern.creator.Fruit;
-
 public class Main {
 
     public static void main(String[] args) {

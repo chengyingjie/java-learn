@@ -15,11 +15,18 @@ public class Main {
         System.out.println(saladAVegetable.desc());
 
         // 沙拉B套餐
-        AbstractFactory saladSetB = new SaladSetAFactory();
+        AbstractFactory saladSetB = new SaladSetBFactory();
         Fruit saladBFruit = saladSetB.createFruit();
         Vegetable saladBVegetable = saladSetB.createVegetable();
         System.out.println(saladBFruit.desc());
         System.out.println(saladBVegetable.desc());
+
+
+        // 采用升级的抽象工厂
+        UpgradeAbstractFactory abstractFactory = new UpgradeAbstractFactory(new SaladSetAFactory());
+        SaladSet saladSet = abstractFactory.getSaladSet();
+        System.out.println(saladSet.getSaladFruit().desc());
+        System.out.println(saladSet.getSaladVegetable().desc());
 
     }
 }

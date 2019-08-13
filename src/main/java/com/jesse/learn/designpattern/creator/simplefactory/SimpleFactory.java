@@ -1,8 +1,5 @@
 package com.jesse.learn.designpattern.creator.simplefactory;
 
-import com.jesse.learn.designpattern.creator.Apple;
-import com.jesse.learn.designpattern.creator.Fruit;
-import com.jesse.learn.designpattern.creator.Grape;
 
 public class SimpleFactory {
 
