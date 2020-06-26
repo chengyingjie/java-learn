@@ -24,21 +24,31 @@
     <dependencies>
         <!-- Spring核心依赖 -->
         <!-- https://www.cnblogs.com/javafucker/p/7566733.html -->
+        <!-- Spring 5.0 核心工具包 -->
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-core</artifactId>
-            <version>4.3.7.RELEASE</version>
+            <version>5.1.8.RELEASE</version>
         </dependency>
+        <!-- Spring 5.0 Bean管理工具包 -->
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-beans</artifactId>
-            <version>4.3.7.RELEASE</version>
+            <version>5.1.8.RELEASE</version>
         </dependency>
+        <!-- Spring 5.0 context管理工具包 -->
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-context</artifactId>
-            <version>4.3.7.RELEASE</version>
+            <version>5.1.8.RELEASE</version>
         </dependency>
+        <!-- 添加 spring-test 依赖 -->
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-test</artifactId>
+            <version>5.1.8.RELEASE</version>
+        </dependency>
+
         <dependency>
             <groupId>org.aspectj</groupId>
             <artifactId>aspectjweaver</artifactId>
@@ -55,12 +65,13 @@
             <version>1.2.47</version>
         </dependency>
 
-        <!-- 添加junit -->
+        <!-- 单元测试Junit -->
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
             <version>4.12</version>
         </dependency>
+
 
         <!-- 添加log4j -->
         <dependency>
@@ -89,5 +100,18 @@
             <version>3.1.7-RELEASE</version>
         </dependency>
     </dependencies>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <configuration>
+                    <source>1.8</source>
+                    <target>1.8</target>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
 
 </project>

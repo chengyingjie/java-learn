@@ -1,52 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/../owl/owl-web/src/main/java/com/youzan/owl/web/controller/ContentRestController.java" line="104" />
-    <bookmark url="file://$PROJECT_DIR$/../owl/owl-web/src/main/java/com/youzan/owl/web/controller/ContentRestController.java" description="private RiskControlServiceClient riskControlServic..." line="79" />
-    <bookmark url="file://$PROJECT_DIR$/../owl/owl-web/src/main/java/com/youzan/owl/web/controller/ContentRestController.java" description="private ColumnInnerService columnInnerService;" line="76" />
-    <bookmark url="file://$PROJECT_DIR$/../spotlight/spotlight-biz/src/main/java/com/youzan/ebiz/spotlight/biz/service/searchv2/impl/AlgorithmSearchServiceImpl.java" description="}" line="378" />
-    <bookmark url="file://$PROJECT_DIR$/../owl-edu/owl-edu-biz/src/main/java/com/youzan/owl/edu/biz/api/student/StudentFacadeImpl.java" description="@Override" line="280" />
-    <bookmark url="file://$PROJECT_DIR$/../owl-ump/owl-ump-biz/src/main/java/com/youzan/owl/ump/biz/core/reward/SubscribeProductStrategy.java" description="Long userId = user.getId();" line="42" />
-    <bookmark url="file://$PROJECT_DIR$/../spotlight/spotlight-biz/src/main/java/com/youzan/ebiz/spotlight/biz/event/ZeroChargeEventListener.java" description="private static String TOC_TYPE_VISIT = &quot;spotlight_..." line="31" />
-    <bookmark url="file://$PROJECT_DIR$/../spotlight-basic/spotlight-basic-biz/src/main/java/com/youzan/ebiz/spotlight/basic/nsq/config/NsqConfiguration.java" description="private String nsqClusterHost;" line="18" />
-    <bookmark url="file://$PROJECT_DIR$/../spotlight/spotlight-biz/src/main/java/com/youzan/ebiz/spotlight/biz/nsq/consumer/ScrmAccountBindListener.java" description="logger.info(&quot;手动用户绑定消息, params:{}&quot;, JSON.toJSONStri..." line="32" />
-    <bookmark url="file://$PROJECT_DIR$/../spotlight/spotlight-dal/src/main/resources/mapper/miniprogram/FansRelationDAO.xml" line="44" />
-    <bookmark url="file://$PROJECT_DIR$/../spotlight/spotlight-dal/src/main/resources/mapper/miniprogram/FansRelationDAO.xml" description="&lt;update id=&quot;updateAdminId&quot;&gt;" line="45" />
-    <bookmark url="file://$PROJECT_DIR$/../owl/owl-biz/src/main/java/com/youzan/owl/biz/service/impl/ContentInnerServiceImpl.java" line="1561" />
-    <bookmark url="file://$PROJECT_DIR$/../owl/owl-biz/src/main/java/com/youzan/owl/biz/service/impl/ContentInnerServiceImpl.java" line="1563" />
-    <bookmark url="file://$PROJECT_DIR$/../owl-ump/owl-ump-dal/src/main/java/com/youzan/owl/ump/dal/dao/exam/ExamDao.java" description="*/" line="29" />
-    <bookmark url="file://$PROJECT_DIR$/../owl-edu/owl-edu-biz/src/main/java/com/youzan/owl/edu/biz/migrate/common/AbstractMigrateService.java" description="try {" line="30" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="e9dbc1bd-efec-478a-a115-cc79d0765b42" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/abstractfactory/SaladSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/abstractfactory/UpgradeAbstractFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/builder/AbstractFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/builder/Director.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/builder/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/builder/SaladSetAFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/builder/SaladSetBFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/simplefactory/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/simplefactory/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/simplefactory/Grape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/Shuitongrongliang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/optimization/BaseJunitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/optimization/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/optimization/DemoConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/optimization/RequestMerge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/optimization/ResponsCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/optimization/SpringConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/reflect/aaa.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/config/bbb.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/config/target-server.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/algorithm/Shuitongrongliang.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/config/bbb.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/config/target-server.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/Apple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/factory/Apple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/Fruit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/factory/Fruit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/Grape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/factory/Grape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/abstractfactory/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/abstractfactory/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/factory/AppleFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/factory/AppleFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/factory/Factory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/factory/Factory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/factory/GrapeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/factory/GrapeFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/factory/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/factory/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/simplefactory/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/simplefactory/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/simplefactory/SimpleFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/simplefactory/SimpleFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/singleton/DoubleCheckSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/singleton/DoubleCheckSingleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/designpattern/singleton/DoubleCheckSingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/mybatis/KolDaoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/mybatis/KolDaoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/designpattern/creator/builder/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/designpattern/creator/builder/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/designpattern/creator/factory/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/designpattern/creator/factory/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/mybatis/demo/KolDao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/mybatis/KolDaoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/mybatis/KolDaoTest.class" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,137 +37,6 @@
       <FILTER>com.jesse.learn.polymorphic.*</FILTER>
     </SUITE>
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="UpgradeAbstractFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/abstractfactory/UpgradeAbstractFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-              <folding>
-                <element signature="e#401#402#0" expanded="true" />
-                <element signature="e#455#456#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SaladSet.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/abstractfactory/SaladSet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" column="21" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SaladSetAFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/abstractfactory/SaladSetAFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SaladSetBFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/builder/SaladSetBFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-              <folding>
-                <element signature="e#735#736#0" expanded="true" />
-                <element signature="e#786#787#0" expanded="true" />
-                <element signature="e#823#824#0" expanded="true" />
-                <element signature="e#879#880#0" expanded="true" />
-                <element signature="e#920#921#0" expanded="true" />
-                <element signature="e#951#952#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Director.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/builder/Director.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-              <folding>
-                <element signature="e#178#179#0" expanded="true" />
-                <element signature="e#232#233#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/builder/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="16" column="65" selection-start-line="16" selection-start-column="65" selection-end-line="16" selection-end-column="65" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SaladSetAFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/builder/SaladSetAFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#421#422#0" expanded="true" />
-                <element signature="e#472#473#0" expanded="true" />
-                <element signature="e#666#667#0" expanded="true" />
-                <element signature="e#721#722#0" expanded="true" />
-                <element signature="e#606#607#0" expanded="true" />
-                <element signature="e#637#638#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AbstractFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/builder/AbstractFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/abstractfactory/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
-              <caret line="26" column="44" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AbstractFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/abstractfactory/AbstractFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -196,92 +45,8 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>loadBeanDeni</find>
-      <find>AopNamespaceHandle</find>
-      <find>registerOrEscalateApcAsRequired</find>
-      <find>registerBeanPostProcessors</find>
-      <find>createBean</find>
-      <find>resultSetType</find>
-      <find>getMapper</find>
-      <find>lombok</find>
-      <find>pooled</find>
-      <find>parseResultMap</find>
-      <find>addMapper</find>
-      <find>na\\\</find>
-      <find>proxyClassCache.get</find>
-      <find>ProxyClassFactory</find>
-    </findStrings>
-    <replaceStrings>
-      <replace />
-    </replaceStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/test/java/dubbo/JavaSPITest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/common/service/PersonService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/common/service/PersonServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/reflect/ReflectDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/proxy/JdkProxy.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/proxy/CglibProxy.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/proxy/ProxyDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/simplefactory/Fruit.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/simplefactory/Apple.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/simplefactory/Grape.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/simplefactory/SimpleFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/simplefactory/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/Fruit.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/Apple.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/Grape.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/abstractfactory/FruitFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/abstractfactory/VegetableFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/abstractfactory/Vegetable.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/abstractfactory/Radish.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/abstractfactory/Cabbage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/abstractfactory/fruit/GrapeFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/abstractfactory/fruit/Grape.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/abstractfactory/vegetable/Radish.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/abstractfactory/vegetable/VegetableFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/abstractfactory/fruit/FruitFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/abstractfactory/vegetable/Vegetable.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/abstractfactory/fruit/SaladSetAFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/abstractfactory/SaladSetAFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/abstractfactory/AbstractFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/abstractfactory/SaladSetBFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/factory/Grape.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/factory/AppleFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/factory/Factory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/simplefactory/Fruit.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/simplefactory/SimpleApple.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/factory/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/factory/GrapeFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/simplefactory/SimpleGrape.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/simplefactory/Grape.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/simplefactory/Apple.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/simplefactory/SimpleFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/simplefactory/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/singleton/DoubleCheckSingleton.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/abstractfactory/SaladSet.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/abstractfactory/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/builder/SaladSetBFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/builder/SaladSetAFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/builder/AbstractFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/builder/Director.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/abstractfactory/UpgradeAbstractFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/builder/Main.java" />
-      </list>
-    </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -290,276 +55,24 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
-  </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds">
     <option name="x" value="55" />
-    <option name="y" value="86" />
-    <option name="width" value="1280" />
+    <option name="y" value="23" />
+    <option name="width" value="1225" />
     <option name="height" value="777" />
   </component>
+  <component name="ProjectId" id="1dq9zJvBEV6fL1bH5FNNR63yrJd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="java-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-learn" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-learn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-learn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-learn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-learn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="learn" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-learn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="learn" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-learn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="learn" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="dto" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-learn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="learn" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-learn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="learn" type="462c0819:PsiDirectoryNode" />
-              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-learn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="learn" type="462c0819:PsiDirectoryNode" />
-              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
-              <item name="creator" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-learn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="learn" type="462c0819:PsiDirectoryNode" />
-              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
-              <item name="creator" type="462c0819:PsiDirectoryNode" />
-              <item name="abstractfactory" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-learn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="learn" type="462c0819:PsiDirectoryNode" />
-              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
-              <item name="creator" type="462c0819:PsiDirectoryNode" />
-              <item name="builder" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-learn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="learn" type="462c0819:PsiDirectoryNode" />
-              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
-              <item name="creator" type="462c0819:PsiDirectoryNode" />
-              <item name="singleton" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-learn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="learn" type="462c0819:PsiDirectoryNode" />
-              <item name="reflect" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-learn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="java-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: com.alibaba:dubbo:3.1.7-RELEASE" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="java-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: com.alibaba:dubbo:3.1.7-RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="dubbo-3.1.7-RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: com.alibaba:dubbo:3.1.7-RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="dubbo-3.1.7-RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: com.alibaba:dubbo:3.1.7-RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="dubbo-3.1.7-RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="alibaba" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: com.alibaba:dubbo:3.1.7-RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="dubbo-3.1.7-RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="alibaba" type="462c0819:PsiDirectoryNode" />
-              <item name="dubbo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: com.alibaba:dubbo:3.1.7-RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="dubbo-3.1.7-RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="alibaba" type="462c0819:PsiDirectoryNode" />
-              <item name="dubbo" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: com.alibaba:dubbo:3.1.7-RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="dubbo-3.1.7-RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="alibaba" type="462c0819:PsiDirectoryNode" />
-              <item name="dubbo" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="threadpool" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: com.alibaba:dubbo:3.1.7-RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="dubbo-3.1.7-RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="alibaba" type="462c0819:PsiDirectoryNode" />
-              <item name="dubbo" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="threadpool" type="462c0819:PsiDirectoryNode" />
-              <item name="support" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: com.alibaba:dubbo:3.1.7-RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="dubbo-3.1.7-RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="alibaba" type="462c0819:PsiDirectoryNode" />
-              <item name="dubbo" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="threadpool" type="462c0819:PsiDirectoryNode" />
-              <item name="support" type="462c0819:PsiDirectoryNode" />
-              <item name="cached" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: com.alibaba:dubbo:3.1.7-RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="dubbo-3.1.7-RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="alibaba" type="462c0819:PsiDirectoryNode" />
-              <item name="dubbo" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="threadpool" type="462c0819:PsiDirectoryNode" />
-              <item name="support" type="462c0819:PsiDirectoryNode" />
-              <item name="fixed" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: com.alibaba:dubbo:3.1.7-RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="dubbo-3.1.7-RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="alibaba" type="462c0819:PsiDirectoryNode" />
-              <item name="dubbo" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="threadpool" type="462c0819:PsiDirectoryNode" />
-              <item name="support" type="462c0819:PsiDirectoryNode" />
-              <item name="limited" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SearchEverywhereHistoryKey" value="FixedThreadPool&#9;PSI&#9;JAVA://com.alibaba.dubbo.common.threadpool.support.fixed.FixedThreadPool&#10;ThreadPool&#9;PSI&#9;JAVA://com.alibaba.dubbo.common.threadpool.ThreadPool&#10;config&#9;FILE&#9;jar:///Users/chengyingjie/.m2/repository/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/session/Configuration.java&#10;MapperProxyFactory&#9;FILE&#9;jar:///Users/chengyingjie/.m2/repository/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/binding/MapperProxyFactory.java&#10;Configuration&#9;FILE&#9;jar:///Users/chengyingjie/.m2/repository/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/session/Configuration.java&#10;beandefinit&#9;PSI&#9;JAVA://org.springframework.beans.factory.config.BeanDefinition&#10;AopNamespaceHandle&#9;PSI&#9;JAVA://org.springframework.aop.config.AopNamespaceHandler" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -569,6 +82,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/config" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
       <recent name="$PROJECT_DIR$/src/main/java/com/jesse/learn/mybatis/demo" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -577,36 +92,41 @@
       <recent name="com.jesse.learn.designpattern.template.enums" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
       <recent name="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/builder" />
       <recent name="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/simplefactory" />
       <recent name="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/factory" />
       <recent name="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/abstractfactory/fruit" />
-      <recent name="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/template" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Main (2)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jesse.learn.designpattern.creator.abstractfactory.Main" />
+  <component name="RunManager" selected="JUnit.Demo.requestMergeDemo">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jesse.learn.optimization.Demo" />
       <module name="java-learn" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jesse.learn.designpattern.creator.abstractfactory.*" />
+          <option name="PATTERN" value="com.jesse.learn.optimization.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KolDaoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mybatis.KolDaoTest" />
+      <module name="java-learn" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mybatis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jesse.learn.designpattern.creator.builder.Main" />
@@ -618,107 +138,77 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jesse.learn.designpattern.creator.simplefactory.Main" />
+    <configuration name="Shuitongrongliang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jesse.learn.algorithm.Shuitongrongliang" />
       <module name="java-learn" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jesse.learn.designpattern.creator.simplefactory.*" />
+          <option name="PATTERN" value="com.jesse.learn.algorithm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-    </configuration>
-    <configuration name="ProxyDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jesse.learn.proxy.ProxyDemo" />
-      <module name="java-learn" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jesse.learn.proxy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="JavaSPITest.sayHello" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Demo.requestMergeDemo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-learn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dubbo.*" />
+          <option name="PATTERN" value="com.jesse.learn.optimization.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="dubbo" />
-      <option name="MAIN_CLASS_NAME" value="dubbo.JavaSPITest" />
-      <option name="METHOD_NAME" value="sayHello" />
+      <option name="PACKAGE_NAME" value="com.jesse.learn.optimization" />
+      <option name="MAIN_CLASS_NAME" value="com.jesse.learn.optimization.Demo" />
+      <option name="METHOD_NAME" value="requestMergeDemo" />
       <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
+    <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.JavaSPITest.sayHello" />
-      <item itemvalue="Application.ProxyDemo" />
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.KolDaoTest" />
+      <item itemvalue="Application.Shuitongrongliang" />
+      <item itemvalue="Application.Demo" />
+      <item itemvalue="JUnit.Demo.requestMergeDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Demo.requestMergeDemo" />
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.Shuitongrongliang" />
+        <item itemvalue="Application.KolDaoTest" />
         <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.ProxyDemo" />
-        <item itemvalue="JUnit.JavaSPITest.sayHello" />
       </list>
     </recent_temporary>
   </component>
@@ -768,515 +258,80 @@
       <workItem from="1564882424146" duration="5311000" />
       <workItem from="1565071083748" duration="1899000" />
       <workItem from="1565325392877" duration="7199000" />
-      <workItem from="1565673706477" duration="5514000" />
+      <workItem from="1565673706477" duration="8184000" />
+      <workItem from="1566783523414" duration="1579000" />
+      <workItem from="1568005456565" duration="7057000" />
+      <workItem from="1568604229683" duration="2930000" />
+      <workItem from="1568859475347" duration="771000" />
+      <workItem from="1569542455482" duration="1195000" />
+      <workItem from="1569925833650" duration="6000" />
+      <workItem from="1587201205031" duration="1818000" />
+      <workItem from="1587607332576" duration="2296000" />
+      <workItem from="1588255681694" duration="588000" />
+      <workItem from="1588320655482" duration="544000" />
+      <workItem from="1588396092312" duration="349000" />
+      <workItem from="1588729258092" duration="395000" />
+      <workItem from="1589106391833" duration="581000" />
+      <workItem from="1593142023290" duration="2812000" />
+      <workItem from="1593159730222" duration="7628000" />
     </task>
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="UserDaoTest_findUserById - 2019.03.15 at 16h 06m 22s.xml">
-      <configuration name="UserDaoTest.findUserById" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UserDaoTest_findUserById - 2019.03.15 at 16h 09m 23s.xml">
-      <configuration name="UserDaoTest.findUserById" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UserDaoTest_findUserById - 2019.03.15 at 16h 23m 26s.xml">
-      <configuration name="UserDaoTest.findUserById" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="JavaSPITest_sayHello - 2019.03.24 at 20h 15m 18s.xml">
-      <configuration name="JavaSPITest.sayHello" configurationId="JUnit" />
-    </history-entry>
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="242196000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="News Feed" order="3" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.37606838" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32905984" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26638177" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32905984" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22213247" />
-      <window_info anchor="bottom" id="Reviews" order="7" />
-      <window_info anchor="right" id="BPMNPalette" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="right" id="Coverage" order="3" side_tool="true" weight="0.32956383" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="WindowStateProjectService">
+    <state width="1238" height="216" key="GridCell.Tab.0.bottom" timestamp="1593187154837">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="216" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1593187154837" />
+    <state width="1238" height="346" key="GridCell.Tab.0.bottom/38.23.1242.777@38.23.1242.777" timestamp="1593184380927" />
+    <state width="1238" height="216" key="GridCell.Tab.0.center" timestamp="1593187154835">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="216" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1593187154835" />
+    <state width="1238" height="346" key="GridCell.Tab.0.center/38.23.1242.777@38.23.1242.777" timestamp="1593184380918" />
+    <state width="1238" height="216" key="GridCell.Tab.0.left" timestamp="1593187154834">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="216" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1593187154834" />
+    <state width="1238" height="346" key="GridCell.Tab.0.left/38.23.1242.777@38.23.1242.777" timestamp="1593184380916" />
+    <state width="1238" height="216" key="GridCell.Tab.0.right" timestamp="1593187154836">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="216" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1593187154836" />
+    <state width="1238" height="346" key="GridCell.Tab.0.right/38.23.1242.777@38.23.1242.777" timestamp="1593184380920" />
+    <state width="1238" height="216" key="GridCell.Tab.1.bottom" timestamp="1593187149615">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="216" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1593187149615" />
+    <state width="1238" height="346" key="GridCell.Tab.1.bottom/38.23.1242.777@38.23.1242.777" timestamp="1593184380569" />
+    <state width="1238" height="216" key="GridCell.Tab.1.center" timestamp="1593187149612">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="216" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1593187149612" />
+    <state width="1238" height="346" key="GridCell.Tab.1.center/38.23.1242.777@38.23.1242.777" timestamp="1593184380564" />
+    <state width="1238" height="216" key="GridCell.Tab.1.left" timestamp="1593187149611">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="216" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1593187149611" />
+    <state width="1238" height="346" key="GridCell.Tab.1.left/38.23.1242.777@38.23.1242.777" timestamp="1593184380562" />
+    <state width="1238" height="216" key="GridCell.Tab.1.right" timestamp="1593187149614">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="216" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1593187149614" />
+    <state width="1238" height="346" key="GridCell.Tab.1.right/38.23.1242.777@38.23.1242.777" timestamp="1593184380567" />
+    <state x="178" y="62" key="Maven.ArtifactSearchDialog" timestamp="1593185676063">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="178" y="62" key="Maven.ArtifactSearchDialog/0.0.1280.800@0.0.1280.800" timestamp="1593185676063" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="27" />
-    </breakpoint-manager>
-  </component>
-  <component name="debuggerHistoryManager">
-    <expressions id="evaluateExpression">
-      <expression>
-        <expression-string>DriverManager.getConnection(url, username, password)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>conn</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>String.format(statement, Integer.parseInt(parameter))</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>args[0].toString()</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>imageList</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>beandefinition</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-    </expressions>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/Objects.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="200" column="24" selection-start-line="200" selection-start-column="24" selection-end-line="200" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar!/sun/reflect/misc/ReflectUtil.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="152" column="23" selection-start-line="152" selection-start-column="23" selection-end-line="152" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/common/service/PersonServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="210" column="12" selection-start-line="210" selection-start-column="12" selection-end-line="210" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="118" column="19" selection-start-line="118" selection-start-column="19" selection-end-line="118" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/security/AccessController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="297" column="31" selection-start-line="297" selection-start-column="31" selection-end-line="297" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/reflect/ReflectDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="95" column="26" lean-forward="true" selection-start-line="95" selection-start-column="26" selection-end-line="95" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/reflect/Constructor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="405" column="13" selection-start-line="405" selection-start-column="13" selection-end-line="405" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/function/Supplier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="47" column="6" selection-start-line="47" selection-start-column="6" selection-end-line="47" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="211" column="6" selection-start-line="211" selection-start-column="6" selection-end-line="211" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/reflect/Proxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="418" column="33" selection-start-line="418" selection-start-column="33" selection-end-line="418" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/reflect/WeakCache.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1692">
-          <caret line="123" column="22" selection-start-line="123" selection-start-column="22" selection-end-line="123" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.7.RELEASE/spring-core-4.3.7.RELEASE.jar!/org/springframework/cglib/proxy/Callback.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.7.RELEASE/spring-core-4.3.7.RELEASE.jar!/org/springframework/cglib/proxy/MethodInterceptor.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.7.RELEASE/spring-core-4.3.7.RELEASE.jar!/org/springframework/cglib/proxy/MethodProxy.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/proxy/CglibProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/proxy/ProxyDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis-config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="42" column="10" selection-start-line="42" selection-start-column="10" selection-end-line="42" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/common/service/PersonService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/proxy/JdkProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/abstractfactory/vegetable/Cabbage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#138#139#0" expanded="true" />
-            <element signature="e#169#170#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/abstractfactory/fruit/AppleFactory.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/abstractfactory/fruit/Grape.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/abstractfactory/vegetable/Radish.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#137#138#0" expanded="true" />
-            <element signature="e#161#162#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/abstractfactory/vegetable/Vegetable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/abstractfactory/fruit/Fruit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/abstractfactory/fruit/Apple.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/abstractfactory/SaladSetBFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#420#421#0" expanded="true" />
-            <element signature="e#454#455#0" expanded="true" />
-            <element signature="e#501#502#0" expanded="true" />
-            <element signature="e#537#538#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/factory/AppleFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/factory/Factory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/factory/Grape.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/simplefactory/Fruit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/factory/Fruit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/factory/Apple.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/factory/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="54" selection-start-column="54" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/factory/GrapeFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/simplefactory/Grape.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/simplefactory/Apple.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/simplefactory/SimpleFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/simplefactory/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/singleton/DoubleCheckSingleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/abstractfactory/AbstractFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/abstractfactory/SaladSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="21" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/abstractfactory/SaladSetAFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/builder/AbstractFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/builder/SaladSetBFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="e#735#736#0" expanded="true" />
-            <element signature="e#786#787#0" expanded="true" />
-            <element signature="e#823#824#0" expanded="true" />
-            <element signature="e#879#880#0" expanded="true" />
-            <element signature="e#920#921#0" expanded="true" />
-            <element signature="e#951#952#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/builder/Director.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-          <folding>
-            <element signature="e#178#179#0" expanded="true" />
-            <element signature="e#232#233#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/abstractfactory/UpgradeAbstractFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-          <folding>
-            <element signature="e#401#402#0" expanded="true" />
-            <element signature="e#455#456#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/abstractfactory/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="26" column="44" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/builder/SaladSetAFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#421#422#0" expanded="true" />
-            <element signature="e#472#473#0" expanded="true" />
-            <element signature="e#666#667#0" expanded="true" />
-            <element signature="e#721#722#0" expanded="true" />
-            <element signature="e#606#607#0" expanded="true" />
-            <element signature="e#637#638#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/builder/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="65" selection-start-line="16" selection-start-column="65" selection-end-line="16" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="countDownLatch" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="masterDetails">
     <states>

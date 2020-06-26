@@ -11,7 +11,7 @@ public class Main {
         apple.desc();
 
         // 构建葡萄工厂
-        Factory grapeFactory = new AppleFactory();
+        Factory grapeFactory = new GrapeFactory();
         // 生产普通
         Fruit grape = grapeFactory.createFruit();
         grape.desc();
