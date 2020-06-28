@@ -4,6 +4,9 @@ public class DoubleCheckSingleton {
 
     private DoubleCheckSingleton() {}
 
+    /**
+     * 注意这里加了 volatile 关键字
+     */
     private static volatile DoubleCheckSingleton singleton;
 
     public static DoubleCheckSingleton getInstance() {

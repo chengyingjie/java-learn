@@ -2,30 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9dbc1bd-efec-478a-a115-cc79d0765b42" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/Shuitongrongliang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/optimization/BaseJunitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/optimization/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/optimization/DemoConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/optimization/RequestMerge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/optimization/ResponsCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/optimization/SpringConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/reflect/aaa.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/config/bbb.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/config/target-server.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/algorithm/Shuitongrongliang.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/config/bbb.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/config/target-server.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/singleton/LockSingleInstance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/singleton/SingleInstance.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/factory/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/factory/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/mybatis/KolDaoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/mybatis/KolDaoTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/designpattern/creator/builder/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/designpattern/creator/builder/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/designpattern/creator/factory/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/designpattern/creator/factory/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/mybatis/demo/KolDao.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/mybatis/KolDaoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/mybatis/KolDaoTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/singleton/DoubleCheckSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/singleton/DoubleCheckSingleton.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -274,6 +254,7 @@
       <workItem from="1589106391833" duration="581000" />
       <workItem from="1593142023290" duration="2812000" />
       <workItem from="1593159730222" duration="7628000" />
+      <workItem from="1593225200545" duration="3441000" />
     </task>
     <servers />
   </component>
