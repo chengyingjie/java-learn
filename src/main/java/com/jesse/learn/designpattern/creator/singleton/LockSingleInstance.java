@@ -21,9 +21,6 @@ public class LockSingleInstance {
             return new LockSingleInstance();
         }
 
-        ThreadLocal<Integer> threadLocal = new ThreadLocal<>();
-        threadLocal.set(1);
-
         return instance;
     }
 
