@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9dbc1bd-efec-478a-a115-cc79d0765b42" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/lru/LruCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/lru/LruLinkedHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/thread/BasicDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/utils/BitMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/singleton/LockSingleInstance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/singleton/LockSingleInstance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jesse/learn/reflect/ReflectDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/reflect/ReflectDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/designpattern/creator/singleton/LockSingleInstance.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/designpattern/creator/singleton/LockSingleInstance.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,12 +36,6 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="55" />
-    <option name="y" value="23" />
-    <option name="width" value="1225" />
-    <option name="height" value="777" />
-  </component>
   <component name="ProjectId" id="1dq9zJvBEV6fL1bH5FNNR63yrJd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -52,7 +47,7 @@
     <property name="SearchEverywhereHistoryKey" value="FixedThreadPool&#9;PSI&#9;JAVA://com.alibaba.dubbo.common.threadpool.support.fixed.FixedThreadPool&#10;ThreadPool&#9;PSI&#9;JAVA://com.alibaba.dubbo.common.threadpool.ThreadPool&#10;config&#9;FILE&#9;jar:///Users/chengyingjie/.m2/repository/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/session/Configuration.java&#10;MapperProxyFactory&#9;FILE&#9;jar:///Users/chengyingjie/.m2/repository/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/binding/MapperProxyFactory.java&#10;Configuration&#9;FILE&#9;jar:///Users/chengyingjie/.m2/repository/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/session/Configuration.java&#10;beandefinit&#9;PSI&#9;JAVA://org.springframework.beans.factory.config.BeanDefinition&#10;AopNamespaceHandle&#9;PSI&#9;JAVA://org.springframework.aop.config.AopNamespaceHandler" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -79,7 +74,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/abstractfactory/fruit" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Demo.requestMergeDemo">
+  <component name="RunManager" selected="Application.ReflectDemo">
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jesse.learn.optimization.Demo" />
       <module name="java-learn" />
@@ -94,13 +89,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KolDaoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mybatis.KolDaoTest" />
+    <configuration name="ProxyDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jesse.learn.proxy.ProxyDemo" />
       <module name="java-learn" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mybatis.*" />
+          <option name="PATTERN" value="com.jesse.learn.proxy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,13 +103,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jesse.learn.designpattern.creator.builder.Main" />
+    <configuration name="ReflectDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jesse.learn.reflect.ReflectDemo" />
       <module name="java-learn" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jesse.learn.designpattern.creator.builder.*" />
+          <option name="PATTERN" value="com.jesse.learn.reflect.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -176,19 +171,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main (2)" />
-      <item itemvalue="Application.KolDaoTest" />
       <item itemvalue="Application.Shuitongrongliang" />
       <item itemvalue="Application.Demo" />
+      <item itemvalue="Application.ProxyDemo" />
       <item itemvalue="JUnit.Demo.requestMergeDemo" />
+      <item itemvalue="Application.ReflectDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReflectDemo" />
+        <item itemvalue="Application.ProxyDemo" />
         <item itemvalue="JUnit.Demo.requestMergeDemo" />
         <item itemvalue="Application.Demo" />
         <item itemvalue="Application.Shuitongrongliang" />
-        <item itemvalue="Application.KolDaoTest" />
-        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -256,6 +251,27 @@
       <workItem from="1593159730222" duration="7628000" />
       <workItem from="1593225200545" duration="3514000" />
       <workItem from="1596982582402" duration="832000" />
+      <workItem from="1597023249109" duration="230000" />
+      <workItem from="1598671948115" duration="2824000" />
+      <workItem from="1598798593517" duration="10000" />
+      <workItem from="1598798667932" duration="1920000" />
+      <workItem from="1598924246123" duration="481000" />
+      <workItem from="1599568604803" duration="1643000" />
+      <workItem from="1599614721028" duration="115000" />
+      <workItem from="1600860246628" duration="1015000" />
+      <workItem from="1601169856420" duration="23000" />
+      <workItem from="1601169979150" duration="961000" />
+      <workItem from="1601446025141" duration="7000" />
+      <workItem from="1601446130873" duration="107000" />
+      <workItem from="1601447266507" duration="35000" />
+      <workItem from="1601447343698" duration="561000" />
+      <workItem from="1601560037148" duration="530000" />
+      <workItem from="1601818961218" duration="14000" />
+      <workItem from="1601819038863" duration="390000" />
+      <workItem from="1601907099675" duration="654000" />
+      <workItem from="1602826892418" duration="2658000" />
+      <workItem from="1602859627988" duration="10096000" />
+      <workItem from="1602942088318" duration="6357000" />
     </task>
     <servers />
   </component>
@@ -263,58 +279,50 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1238" height="216" key="GridCell.Tab.0.bottom" timestamp="1595226084678">
+    <state x="296" y="20" key="#BasicDemo" timestamp="1598673825542">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="216" key="GridCell.Tab.0.bottom/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1595226084678" />
-    <state width="1238" height="216" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1593187154837" />
-    <state width="1238" height="346" key="GridCell.Tab.0.bottom/38.23.1242.777@38.23.1242.777" timestamp="1593184380927" />
-    <state width="1238" height="216" key="GridCell.Tab.0.center" timestamp="1595226084675">
+    <state x="296" y="20" key="#BasicDemo/0.0.1280.800@0.0.1280.800" timestamp="1598673825542" />
+    <state x="100" y="100" width="1080" height="600" key="DiffContextDialog" timestamp="1603096018566">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="216" key="GridCell.Tab.0.center/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1595226084675" />
-    <state width="1238" height="216" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1593187154835" />
-    <state width="1238" height="346" key="GridCell.Tab.0.center/38.23.1242.777@38.23.1242.777" timestamp="1593184380918" />
-    <state width="1238" height="216" key="GridCell.Tab.0.left" timestamp="1595226084674">
+    <state x="100" y="100" width="1080" height="600" key="DiffContextDialog/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1603096018566" />
+    <state width="1238" height="159" key="GridCell.Tab.0.bottom" timestamp="1603028091523">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="216" key="GridCell.Tab.0.left/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1595226084674" />
-    <state width="1238" height="216" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1593187154834" />
-    <state width="1238" height="346" key="GridCell.Tab.0.left/38.23.1242.777@38.23.1242.777" timestamp="1593184380916" />
-    <state width="1238" height="216" key="GridCell.Tab.0.right" timestamp="1595226084677">
+    <state width="1238" height="159" key="GridCell.Tab.0.bottom/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1602829958232" />
+    <state width="1238" height="159" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1603028091523" />
+    <state width="1238" height="159" key="GridCell.Tab.0.center" timestamp="1603028091520">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="216" key="GridCell.Tab.0.right/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1595226084677" />
-    <state width="1238" height="216" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1593187154836" />
-    <state width="1238" height="346" key="GridCell.Tab.0.right/38.23.1242.777@38.23.1242.777" timestamp="1593184380920" />
+    <state width="1238" height="159" key="GridCell.Tab.0.center/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1602829958229" />
+    <state width="1238" height="159" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1603028091520" />
+    <state width="1238" height="159" key="GridCell.Tab.0.left" timestamp="1603028091519">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="159" key="GridCell.Tab.0.left/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1602829958227" />
+    <state width="1238" height="159" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1603028091519" />
+    <state width="1238" height="159" key="GridCell.Tab.0.right" timestamp="1603028091521">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="159" key="GridCell.Tab.0.right/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1602829958231" />
+    <state width="1238" height="159" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1603028091521" />
     <state width="1238" height="216" key="GridCell.Tab.1.bottom" timestamp="1595226084682">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1238" height="216" key="GridCell.Tab.1.bottom/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1595226084682" />
-    <state width="1238" height="216" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1593187149615" />
-    <state width="1238" height="346" key="GridCell.Tab.1.bottom/38.23.1242.777@38.23.1242.777" timestamp="1593184380569" />
     <state width="1238" height="216" key="GridCell.Tab.1.center" timestamp="1595226084680">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1238" height="216" key="GridCell.Tab.1.center/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1595226084680" />
-    <state width="1238" height="216" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1593187149612" />
-    <state width="1238" height="346" key="GridCell.Tab.1.center/38.23.1242.777@38.23.1242.777" timestamp="1593184380564" />
     <state width="1238" height="216" key="GridCell.Tab.1.left" timestamp="1595226084679">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1238" height="216" key="GridCell.Tab.1.left/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1595226084679" />
-    <state width="1238" height="216" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1593187149611" />
-    <state width="1238" height="346" key="GridCell.Tab.1.left/38.23.1242.777@38.23.1242.777" timestamp="1593184380562" />
     <state width="1238" height="216" key="GridCell.Tab.1.right" timestamp="1595226084680">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1238" height="216" key="GridCell.Tab.1.right/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1595226084680" />
-    <state width="1238" height="216" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1593187149614" />
-    <state width="1238" height="346" key="GridCell.Tab.1.right/38.23.1242.777@38.23.1242.777" timestamp="1593184380567" />
-    <state x="178" y="62" key="Maven.ArtifactSearchDialog" timestamp="1593185676063">
-      <screen x="0" y="0" width="1280" height="800" />
-    </state>
-    <state x="178" y="62" key="Maven.ArtifactSearchDialog/0.0.1280.800@0.0.1280.800" timestamp="1593185676063" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>

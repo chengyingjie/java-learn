@@ -63,7 +63,8 @@ public class ReflectDemo {
 
         Student stu = class1.newInstance();
         Method method1 = class1.getMethod("setName", String.class);
-        method1.invoke(stu, "wanghairong");
+        method1.invoke(stu, "liuliu");
+
         System.out.println(stu.getName());
 
         Method method2 = class1.getMethod("getName");
