@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9dbc1bd-efec-478a-a115-cc79d0765b42" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/thread/BasicDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/utils/BitMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jesse/learn/reflect/ReflectDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/reflect/ReflectDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/designpattern/creator/singleton/LockSingleInstance.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/designpattern/creator/singleton/LockSingleInstance.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/Shuitongrongliang.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/Shuitongrongliang.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jesse/learn/proxy/CglibProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/proxy/CglibProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/algorithm/Shuitongrongliang.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/algorithm/Shuitongrongliang.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/reflect/ReflectDemo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/reflect/ReflectDemo$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/reflect/ReflectDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/reflect/ReflectDemo.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +24,7 @@
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="@Aspect" />
       </list>
     </option>
   </component>
@@ -74,7 +76,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/abstractfactory/fruit" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ReflectDemo">
+  <component name="RunManager" selected="Application.Shuitongrongliang">
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jesse.learn.optimization.Demo" />
       <module name="java-learn" />
@@ -174,16 +176,16 @@
       <item itemvalue="Application.Shuitongrongliang" />
       <item itemvalue="Application.Demo" />
       <item itemvalue="Application.ProxyDemo" />
-      <item itemvalue="JUnit.Demo.requestMergeDemo" />
       <item itemvalue="Application.ReflectDemo" />
+      <item itemvalue="JUnit.Demo.requestMergeDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Shuitongrongliang" />
         <item itemvalue="Application.ReflectDemo" />
         <item itemvalue="Application.ProxyDemo" />
         <item itemvalue="JUnit.Demo.requestMergeDemo" />
         <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.Shuitongrongliang" />
       </list>
     </recent_temporary>
   </component>
@@ -271,7 +273,14 @@
       <workItem from="1601907099675" duration="654000" />
       <workItem from="1602826892418" duration="2658000" />
       <workItem from="1602859627988" duration="10096000" />
-      <workItem from="1602942088318" duration="6357000" />
+      <workItem from="1602942088318" duration="8305000" />
+      <workItem from="1603360361489" duration="625000" />
+      <workItem from="1603440873921" duration="595000" />
+      <workItem from="1603446428559" duration="1416000" />
+      <workItem from="1603675615621" duration="1193000" />
+      <workItem from="1603866864383" duration="53000" />
+      <workItem from="1603955349882" duration="3751000" />
+      <workItem from="1604021595135" duration="607000" />
     </task>
     <servers />
   </component>
@@ -283,46 +292,43 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="296" y="20" key="#BasicDemo/0.0.1280.800@0.0.1280.800" timestamp="1598673825542" />
-    <state x="100" y="100" width="1080" height="600" key="DiffContextDialog" timestamp="1603096018566">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state x="100" y="100" width="1080" height="600" key="DiffContextDialog" timestamp="1603096323649">
+      <screen x="38" y="23" width="1242" height="777" />
     </state>
     <state x="100" y="100" width="1080" height="600" key="DiffContextDialog/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1603096018566" />
-    <state width="1238" height="159" key="GridCell.Tab.0.bottom" timestamp="1603028091523">
+    <state x="100" y="100" width="1080" height="600" key="DiffContextDialog/38.23.1242.777/-557.-1417.2560.1417@38.23.1242.777" timestamp="1603096323649" />
+    <state width="1238" height="159" key="GridCell.Tab.0.bottom" timestamp="1603960846018">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="159" key="GridCell.Tab.0.bottom/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1602829958232" />
-    <state width="1238" height="159" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1603028091523" />
-    <state width="1238" height="159" key="GridCell.Tab.0.center" timestamp="1603028091520">
+    <state width="1238" height="159" key="GridCell.Tab.0.bottom/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1603960846018" />
+    <state width="1238" height="159" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1603360270196" />
+    <state width="1238" height="159" key="GridCell.Tab.0.bottom/38.23.1242.777/-557.-1417.2560.1417@38.23.1242.777" timestamp="1603960479314" />
+    <state width="1238" height="159" key="GridCell.Tab.0.center" timestamp="1603960846014">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="159" key="GridCell.Tab.0.center/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1602829958229" />
-    <state width="1238" height="159" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1603028091520" />
-    <state width="1238" height="159" key="GridCell.Tab.0.left" timestamp="1603028091519">
+    <state width="1238" height="159" key="GridCell.Tab.0.center/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1603960846014" />
+    <state width="1238" height="159" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1603360270195" />
+    <state width="1238" height="159" key="GridCell.Tab.0.center/38.23.1242.777/-557.-1417.2560.1417@38.23.1242.777" timestamp="1603960479308" />
+    <state width="1238" height="159" key="GridCell.Tab.0.left" timestamp="1603960846012">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="159" key="GridCell.Tab.0.left/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1602829958227" />
-    <state width="1238" height="159" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1603028091519" />
-    <state width="1238" height="159" key="GridCell.Tab.0.right" timestamp="1603028091521">
+    <state width="1238" height="159" key="GridCell.Tab.0.left/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1603960846012" />
+    <state width="1238" height="159" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1603360270193" />
+    <state width="1238" height="159" key="GridCell.Tab.0.left/38.23.1242.777/-557.-1417.2560.1417@38.23.1242.777" timestamp="1603960479303" />
+    <state width="1238" height="159" key="GridCell.Tab.0.right" timestamp="1603960846016">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="159" key="GridCell.Tab.0.right/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1602829958231" />
-    <state width="1238" height="159" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1603028091521" />
-    <state width="1238" height="216" key="GridCell.Tab.1.bottom" timestamp="1595226084682">
+    <state width="1238" height="159" key="GridCell.Tab.0.right/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1603960846016" />
+    <state width="1238" height="159" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1603360270195" />
+    <state width="1238" height="159" key="GridCell.Tab.0.right/38.23.1242.777/-557.-1417.2560.1417@38.23.1242.777" timestamp="1603960479312" />
+    <state x="388" y="141" key="VcsDiffUtil.ChangesDialog" timestamp="1603096028655">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="216" key="GridCell.Tab.1.bottom/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1595226084682" />
-    <state width="1238" height="216" key="GridCell.Tab.1.center" timestamp="1595226084680">
+    <state x="388" y="141" key="VcsDiffUtil.ChangesDialog/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1603096028655" />
+    <state x="341" y="126" width="598" height="548" key="find.popup" timestamp="1603955579785">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="216" key="GridCell.Tab.1.center/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1595226084680" />
-    <state width="1238" height="216" key="GridCell.Tab.1.left" timestamp="1595226084679">
-      <screen x="0" y="0" width="1280" height="800" />
-    </state>
-    <state width="1238" height="216" key="GridCell.Tab.1.left/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1595226084679" />
-    <state width="1238" height="216" key="GridCell.Tab.1.right" timestamp="1595226084680">
-      <screen x="0" y="0" width="1280" height="800" />
-    </state>
-    <state width="1238" height="216" key="GridCell.Tab.1.right/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1595226084680" />
+    <state x="341" y="126" width="598" height="548" key="find.popup/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1603955579785" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>

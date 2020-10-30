@@ -8,7 +8,7 @@ import java.lang.reflect.Method;
 
 /**
  * CGLib底层采用ASM字节码生成框架，使用字节码技术生成代理类，比使用Java反射效率要高
- * 唯一需要注意的是，CGLib不能对声明为final的方法进行代理，因为CGLib原理是动态生成被代理类的子类。
+ * 唯一需要注意的是，CGLib不能对声明为final的方法进行代理（final方法无法继承），因为CGLib原理是动态生成被代理类的子类。
  */
 public class CglibProxy implements MethodInterceptor {
 

@@ -34,11 +34,30 @@ public class Shuitongrongliang {
         return maxArea;
     }
 
+    // 暴力求解
+    private Integer getMaxArea(int[] height) {
+
+        int max = -1;
+        for (int i = 0; i < height.length - 1; i++) {
+            for (int j = i + 1; j < height.length; j++) {
+                int area = (j - i) * Math.min(height[i], height[j]);
+                if (max < area) {
+                    max = area;
+                }
+            }
+        }
+
+        return max;
+    }
+
 
     public static void main(String[] args) {
 
-//        int[] height = {3,1,4,6,9,12,2,3,1,4,5};
-        int[] height = {1,8,6,2,5,4,8,3,7};
-        System.out.println(new Shuitongrongliang().maxArea(height));
+        int[] height = {3,1,4,6,9,12,2,3,1,4,5};
+//        int[] height = {1,8,6,2,5,4,8,3,7};
+
+        Shuitongrongliang shuitong = new Shuitongrongliang();
+        System.out.println(shuitong.getMaxArea(height));
+        System.out.println(shuitong.maxArea(height));
     }
 }
