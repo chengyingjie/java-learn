@@ -1,5 +1,8 @@
 package com.jesse.learn.algorithm;
 
+import java.util.HashMap;
+import java.util.Map;
+
 public class Snowflake {
 
     //下面两个每个5位，加起来就是10位的工作机器id
@@ -114,6 +117,7 @@ public class Snowflake {
 
     //---------------测试---------------
     public static void main(String[] args) {
+
         Snowflake worker = new Snowflake(1,1,1);
         for (int i = 0; i < 30; i++) {
             System.out.println(worker.nextId());

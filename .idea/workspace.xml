@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9dbc1bd-efec-478a-a115-cc79d0765b42" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/Fibonacci.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jesse/learn/reflect/aaa.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jesse/learn/spring/AnimalServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/spring/AnimalServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/spring/AnimalServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/spring/AnimalServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/Snowflake.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/Snowflake.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +20,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="@Aspect" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -74,7 +73,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/abstractfactory/fruit" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AnimalServiceImpl">
+  <component name="RunManager" selected="Application.Fibonacci">
     <configuration name="AnimalServiceImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jesse.learn.spring.AnimalServiceImpl" />
       <module name="java-learn" />
@@ -89,13 +88,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProxyDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jesse.learn.proxy.ProxyDemo" />
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jesse.learn.algorithm.Fibonacci" />
       <module name="java-learn" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jesse.learn.proxy.*" />
+          <option name="PATTERN" value="com.jesse.learn.algorithm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,25 +130,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
+    <configuration name="Snowflake" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jesse.learn.algorithm.Snowflake" />
+      <module name="java-learn" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jesse.learn.algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo.requestMergeDemo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java-learn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jesse.learn.optimization.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.jesse.learn.optimization" />
-      <option name="MAIN_CLASS_NAME" value="com.jesse.learn.optimization.Demo" />
-      <option name="METHOD_NAME" value="requestMergeDemo" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -172,18 +168,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Shuitongrongliang" />
-      <item itemvalue="Application.ProxyDemo" />
       <item itemvalue="Application.ReflectDemo" />
-      <item itemvalue="JUnit.Demo.requestMergeDemo" />
       <item itemvalue="Application.AnimalServiceImpl" />
+      <item itemvalue="Application.Snowflake" />
+      <item itemvalue="Application.Fibonacci" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Fibonacci" />
+        <item itemvalue="Application.Snowflake" />
         <item itemvalue="Application.AnimalServiceImpl" />
         <item itemvalue="Application.Shuitongrongliang" />
         <item itemvalue="Application.ReflectDemo" />
-        <item itemvalue="Application.ProxyDemo" />
-        <item itemvalue="JUnit.Demo.requestMergeDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -281,7 +277,8 @@
       <workItem from="1604021595135" duration="4410000" />
       <workItem from="1604326183336" duration="3653000" />
       <workItem from="1604452758005" duration="636000" />
-      <workItem from="1604622969671" duration="580000" />
+      <workItem from="1604622969671" duration="1806000" />
+      <workItem from="1604884691076" duration="2332000" />
     </task>
     <servers />
   </component>
@@ -298,38 +295,39 @@
     </state>
     <state x="100" y="100" width="1080" height="600" key="DiffContextDialog/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1603096018566" />
     <state x="100" y="100" width="1080" height="600" key="DiffContextDialog/38.23.1242.777/-557.-1417.2560.1417@38.23.1242.777" timestamp="1603096323649" />
-    <state width="1238" height="159" key="GridCell.Tab.0.bottom" timestamp="1604024232548">
+    <state width="1238" height="206" key="GridCell.Tab.0.bottom" timestamp="1605010686195">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1238" height="159" key="GridCell.Tab.0.bottom/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1604024232548" />
-    <state width="1238" height="159" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1603360270196" />
+    <state width="1238" height="206" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1605010686195" />
     <state width="1238" height="159" key="GridCell.Tab.0.bottom/38.23.1242.777/-557.-1417.2560.1417@38.23.1242.777" timestamp="1603960479314" />
-    <state width="1238" height="159" key="GridCell.Tab.0.center" timestamp="1604024232545">
+    <state width="1238" height="206" key="GridCell.Tab.0.center" timestamp="1605010686191">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1238" height="159" key="GridCell.Tab.0.center/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1604024232545" />
-    <state width="1238" height="159" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1603360270195" />
+    <state width="1238" height="206" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1605010686191" />
     <state width="1238" height="159" key="GridCell.Tab.0.center/38.23.1242.777/-557.-1417.2560.1417@38.23.1242.777" timestamp="1603960479308" />
-    <state width="1238" height="159" key="GridCell.Tab.0.left" timestamp="1604024232543">
+    <state width="1238" height="206" key="GridCell.Tab.0.left" timestamp="1605010686189">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1238" height="159" key="GridCell.Tab.0.left/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1604024232543" />
-    <state width="1238" height="159" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1603360270193" />
+    <state width="1238" height="206" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1605010686188" />
     <state width="1238" height="159" key="GridCell.Tab.0.left/38.23.1242.777/-557.-1417.2560.1417@38.23.1242.777" timestamp="1603960479303" />
-    <state width="1238" height="159" key="GridCell.Tab.0.right" timestamp="1604024232547">
+    <state width="1238" height="206" key="GridCell.Tab.0.right" timestamp="1605010686192">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1238" height="159" key="GridCell.Tab.0.right/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1604024232547" />
-    <state width="1238" height="159" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1603360270195" />
+    <state width="1238" height="206" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1605010686192" />
     <state width="1238" height="159" key="GridCell.Tab.0.right/38.23.1242.777/-557.-1417.2560.1417@38.23.1242.777" timestamp="1603960479312" />
     <state x="388" y="141" key="VcsDiffUtil.ChangesDialog" timestamp="1603096028655">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="388" y="141" key="VcsDiffUtil.ChangesDialog/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1603096028655" />
-    <state x="341" y="126" width="598" height="548" key="find.popup" timestamp="1603955579785">
+    <state x="341" y="126" width="598" height="548" key="find.popup" timestamp="1604757194065">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="341" y="126" width="598" height="548" key="find.popup/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1603955579785" />
+    <state x="341" y="126" width="598" height="548" key="find.popup/0.0.1280.800@0.0.1280.800" timestamp="1604757194065" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
