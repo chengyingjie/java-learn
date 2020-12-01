@@ -1,7 +1,7 @@
-package com.jesse.learn.algorithm;
+package com.jesse.learn.algorithm.dynamic;
 
 /**
- * 斐波那契数列
+ * 斐波那契数列 / n级台阶，每次上1个或2个台阶，有多少种走法
  *
  * f(1)=1, f(2)=2, f(n)=f(n-1) + f(n-2) n>2
  */
@@ -69,7 +69,7 @@ public class Fibonacci {
 
     public static void main(String[] args) {
 
-        int num = 10;
+        int num = 5;
         Fibonacci fibonacci = new Fibonacci();
 
         // O(n^2) 复杂度

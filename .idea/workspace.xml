@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9dbc1bd-efec-478a-a115-cc79d0765b42" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/CoinChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/dynamic/BianJiJuLi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/dynamic/QuanPaiLie.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/Snowflake.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/Snowflake.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/dynamic/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/algorithm/Fibonacci.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +76,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/abstractfactory/fruit" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Fibonacci">
+  <component name="RunManager" selected="Application.BianJiJuLi">
     <configuration name="AnimalServiceImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jesse.learn.spring.AnimalServiceImpl" />
       <module name="java-learn" />
@@ -88,13 +91,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jesse.learn.algorithm.Fibonacci" />
+    <configuration name="BianJiJuLi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jesse.learn.algorithm.dynamic.BianJiJuLi" />
       <module name="java-learn" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jesse.learn.algorithm.*" />
+          <option name="PATTERN" value="com.jesse.learn.algorithm.dynamic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,13 +105,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReflectDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jesse.learn.reflect.ReflectDemo" />
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jesse.learn.algorithm.dynamic.Fibonacci" />
       <module name="java-learn" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jesse.learn.reflect.*" />
+          <option name="PATTERN" value="com.jesse.learn.algorithm.dynamic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,7 +139,7 @@
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jesse.learn.algorithm.*" />
+          <option name="PATTERN" value="com.jesse.learn.algorithm.dynamic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,18 +171,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Shuitongrongliang" />
-      <item itemvalue="Application.ReflectDemo" />
       <item itemvalue="Application.AnimalServiceImpl" />
       <item itemvalue="Application.Snowflake" />
       <item itemvalue="Application.Fibonacci" />
+      <item itemvalue="Application.BianJiJuLi" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BianJiJuLi" />
         <item itemvalue="Application.Fibonacci" />
         <item itemvalue="Application.Snowflake" />
         <item itemvalue="Application.AnimalServiceImpl" />
         <item itemvalue="Application.Shuitongrongliang" />
-        <item itemvalue="Application.ReflectDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -278,7 +281,13 @@
       <workItem from="1604326183336" duration="3653000" />
       <workItem from="1604452758005" duration="636000" />
       <workItem from="1604622969671" duration="1806000" />
-      <workItem from="1604884691076" duration="2332000" />
+      <workItem from="1604884691076" duration="4128000" />
+      <workItem from="1605058541322" duration="1127000" />
+      <workItem from="1605144346602" duration="480000" />
+      <workItem from="1605449243118" duration="223000" />
+      <workItem from="1605490591915" duration="1440000" />
+      <workItem from="1605663823103" duration="1129000" />
+      <workItem from="1606792387191" duration="1621000" />
     </task>
     <servers />
   </component>
@@ -290,35 +299,55 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="296" y="20" key="#BasicDemo/0.0.1280.800@0.0.1280.800" timestamp="1598673825542" />
+    <state x="403" y="110" key="#xdebugger.evaluate" timestamp="1606793927071">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="403" y="110" key="#xdebugger.evaluate/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1606793927071" />
     <state x="100" y="100" width="1080" height="600" key="DiffContextDialog" timestamp="1603096323649">
       <screen x="38" y="23" width="1242" height="777" />
     </state>
     <state x="100" y="100" width="1080" height="600" key="DiffContextDialog/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1603096018566" />
     <state x="100" y="100" width="1080" height="600" key="DiffContextDialog/38.23.1242.777/-557.-1417.2560.1417@38.23.1242.777" timestamp="1603096323649" />
-    <state width="1238" height="206" key="GridCell.Tab.0.bottom" timestamp="1605010686195">
+    <state width="1238" height="206" key="GridCell.Tab.0.bottom" timestamp="1606794004963">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="159" key="GridCell.Tab.0.bottom/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1604024232548" />
-    <state width="1238" height="206" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1605010686195" />
+    <state width="1238" height="206" key="GridCell.Tab.0.bottom/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1606794004963" />
+    <state width="1238" height="206" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1605012118091" />
     <state width="1238" height="159" key="GridCell.Tab.0.bottom/38.23.1242.777/-557.-1417.2560.1417@38.23.1242.777" timestamp="1603960479314" />
-    <state width="1238" height="206" key="GridCell.Tab.0.center" timestamp="1605010686191">
+    <state width="1238" height="206" key="GridCell.Tab.0.center" timestamp="1606794004956">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="159" key="GridCell.Tab.0.center/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1604024232545" />
-    <state width="1238" height="206" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1605010686191" />
+    <state width="1238" height="206" key="GridCell.Tab.0.center/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1606794004956" />
+    <state width="1238" height="206" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1605012118088" />
     <state width="1238" height="159" key="GridCell.Tab.0.center/38.23.1242.777/-557.-1417.2560.1417@38.23.1242.777" timestamp="1603960479308" />
-    <state width="1238" height="206" key="GridCell.Tab.0.left" timestamp="1605010686189">
+    <state width="1238" height="206" key="GridCell.Tab.0.left" timestamp="1606794004954">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="159" key="GridCell.Tab.0.left/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1604024232543" />
-    <state width="1238" height="206" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1605010686188" />
+    <state width="1238" height="206" key="GridCell.Tab.0.left/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1606794004954" />
+    <state width="1238" height="206" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1605012118087" />
     <state width="1238" height="159" key="GridCell.Tab.0.left/38.23.1242.777/-557.-1417.2560.1417@38.23.1242.777" timestamp="1603960479303" />
-    <state width="1238" height="206" key="GridCell.Tab.0.right" timestamp="1605010686192">
+    <state width="1238" height="206" key="GridCell.Tab.0.right" timestamp="1606794004960">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="159" key="GridCell.Tab.0.right/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1604024232547" />
-    <state width="1238" height="206" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1605010686192" />
+    <state width="1238" height="206" key="GridCell.Tab.0.right/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1606794004960" />
+    <state width="1238" height="206" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1605012118090" />
     <state width="1238" height="159" key="GridCell.Tab.0.right/38.23.1242.777/-557.-1417.2560.1417@38.23.1242.777" timestamp="1603960479312" />
+    <state width="1238" height="216" key="GridCell.Tab.1.bottom" timestamp="1606793951192">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="216" key="GridCell.Tab.1.bottom/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1606793951192" />
+    <state width="1238" height="216" key="GridCell.Tab.1.center" timestamp="1606793951188">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="216" key="GridCell.Tab.1.center/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1606793951188" />
+    <state width="1238" height="216" key="GridCell.Tab.1.left" timestamp="1606793951186">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="216" key="GridCell.Tab.1.left/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1606793951186" />
+    <state width="1238" height="216" key="GridCell.Tab.1.right" timestamp="1606793951190">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="216" key="GridCell.Tab.1.right/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1606793951190" />
     <state x="388" y="141" key="VcsDiffUtil.ChangesDialog" timestamp="1603096028655">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
@@ -328,6 +357,10 @@
     </state>
     <state x="341" y="126" width="598" height="548" key="find.popup/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1603955579785" />
     <state x="341" y="126" width="598" height="548" key="find.popup/0.0.1280.800@0.0.1280.800" timestamp="1604757194065" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1605506783804">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1605506783804" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
