@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9dbc1bd-efec-478a-a115-cc79d0765b42" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/dynamic/LongestIncreasingSubStr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/dynamic/LongestLianXuSubStr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/dynamic/ZuiXiaoDiZengZiXuLie.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/dynamic/LongestLianXuSubStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/dynamic/LongestLianXuSubStr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/algorithm/dynamic/LongestLianXuSubStr.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/algorithm/dynamic/LongestLianXuSubStr.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +73,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/abstractfactory/fruit" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LongestIncreasingSubStr">
+  <component name="RunManager" selected="Application.LongestLianXuSubStr">
     <configuration name="BianJiJuLi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jesse.learn.algorithm.dynamic.BianJiJuLi" />
       <module name="java-learn" />
@@ -117,8 +116,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Snowflake" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jesse.learn.algorithm.Snowflake" />
+    <configuration name="LongestLianXuSubStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jesse.learn.algorithm.dynamic.LongestLianXuSubStr" />
       <module name="java-learn" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -168,19 +167,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Snowflake" />
       <item itemvalue="Application.Fibonacci" />
       <item itemvalue="Application.BianJiJuLi" />
       <item itemvalue="Application.ZuiXiaoDiZengZiXuLie" />
       <item itemvalue="Application.LongestIncreasingSubStr" />
+      <item itemvalue="Application.LongestLianXuSubStr" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LongestLianXuSubStr" />
         <item itemvalue="Application.LongestIncreasingSubStr" />
         <item itemvalue="Application.ZuiXiaoDiZengZiXuLie" />
         <item itemvalue="Application.BianJiJuLi" />
         <item itemvalue="Application.Fibonacci" />
-        <item itemvalue="Application.Snowflake" />
       </list>
     </recent_temporary>
   </component>
@@ -285,7 +284,7 @@
       <workItem from="1605449243118" duration="223000" />
       <workItem from="1605490591915" duration="1440000" />
       <workItem from="1605663823103" duration="1129000" />
-      <workItem from="1606792387191" duration="7664000" />
+      <workItem from="1606792387191" duration="8925000" />
     </task>
     <servers />
   </component>
@@ -306,46 +305,50 @@
     </state>
     <state x="100" y="100" width="1080" height="600" key="DiffContextDialog/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1603096018566" />
     <state x="100" y="100" width="1080" height="600" key="DiffContextDialog/38.23.1242.777/-557.-1417.2560.1417@38.23.1242.777" timestamp="1603096323649" />
-    <state width="1238" height="206" key="GridCell.Tab.0.bottom" timestamp="1606804046304">
+    <state width="1238" height="277" key="GridCell.Tab.0.bottom" timestamp="1606921375767">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1238" height="206" key="GridCell.Tab.0.bottom/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1606804046304" />
-    <state width="1238" height="206" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1605012118091" />
+    <state width="1238" height="277" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1606921375767" />
     <state width="1238" height="159" key="GridCell.Tab.0.bottom/38.23.1242.777/-557.-1417.2560.1417@38.23.1242.777" timestamp="1603960479314" />
-    <state width="1238" height="206" key="GridCell.Tab.0.center" timestamp="1606804046301">
+    <state width="1238" height="277" key="GridCell.Tab.0.center" timestamp="1606921375763">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1238" height="206" key="GridCell.Tab.0.center/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1606804046301" />
-    <state width="1238" height="206" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1605012118088" />
+    <state width="1238" height="277" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1606921375763" />
     <state width="1238" height="159" key="GridCell.Tab.0.center/38.23.1242.777/-557.-1417.2560.1417@38.23.1242.777" timestamp="1603960479308" />
-    <state width="1238" height="206" key="GridCell.Tab.0.left" timestamp="1606804046300">
+    <state width="1238" height="277" key="GridCell.Tab.0.left" timestamp="1606921375762">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1238" height="206" key="GridCell.Tab.0.left/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1606804046300" />
-    <state width="1238" height="206" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1605012118087" />
+    <state width="1238" height="277" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1606921375762" />
     <state width="1238" height="159" key="GridCell.Tab.0.left/38.23.1242.777/-557.-1417.2560.1417@38.23.1242.777" timestamp="1603960479303" />
-    <state width="1238" height="206" key="GridCell.Tab.0.right" timestamp="1606804046303">
+    <state width="1238" height="277" key="GridCell.Tab.0.right" timestamp="1606921375765">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1238" height="206" key="GridCell.Tab.0.right/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1606804046303" />
-    <state width="1238" height="206" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1605012118090" />
+    <state width="1238" height="277" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1606921375765" />
     <state width="1238" height="159" key="GridCell.Tab.0.right/38.23.1242.777/-557.-1417.2560.1417@38.23.1242.777" timestamp="1603960479312" />
-    <state width="1238" height="216" key="GridCell.Tab.1.bottom" timestamp="1606795487699">
+    <state width="1238" height="277" key="GridCell.Tab.1.bottom" timestamp="1606921375776">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1238" height="216" key="GridCell.Tab.1.bottom/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1606795487699" />
-    <state width="1238" height="216" key="GridCell.Tab.1.center" timestamp="1606795487695">
+    <state width="1238" height="277" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1606921375776" />
+    <state width="1238" height="277" key="GridCell.Tab.1.center" timestamp="1606921375772">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1238" height="216" key="GridCell.Tab.1.center/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1606795487695" />
-    <state width="1238" height="216" key="GridCell.Tab.1.left" timestamp="1606795487693">
+    <state width="1238" height="277" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1606921375771" />
+    <state width="1238" height="277" key="GridCell.Tab.1.left" timestamp="1606921375770">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1238" height="216" key="GridCell.Tab.1.left/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1606795487693" />
-    <state width="1238" height="216" key="GridCell.Tab.1.right" timestamp="1606795487697">
+    <state width="1238" height="277" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1606921375770" />
+    <state width="1238" height="277" key="GridCell.Tab.1.right" timestamp="1606921375773">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1238" height="216" key="GridCell.Tab.1.right/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1606795487697" />
+    <state width="1238" height="277" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1606921375773" />
     <state x="388" y="141" key="VcsDiffUtil.ChangesDialog" timestamp="1603096028655">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
@@ -361,15 +364,6 @@
     <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1606794260717" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/dynamic/LongestIncreasingSubStr.java</url>
-          <line>32</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="countDownLatch" language="JAVA" />
