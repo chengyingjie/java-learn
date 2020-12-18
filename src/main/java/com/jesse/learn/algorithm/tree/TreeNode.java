@@ -7,9 +7,9 @@ public class TreeNode {
 
     private TreeNode left;
     private TreeNode right;
-    private int data;
+    private String data;
 
-    TreeNode(int data) {
+    TreeNode(String data) {
         this.data = data;
     }
 }

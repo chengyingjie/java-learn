@@ -13,7 +13,7 @@ public class TreeBuilding {
     private static final String NULL = "#";
 
 
-    private TreeNode preorder(Queue<String> queue) {
+    public TreeNode preorder(Queue<String> queue) {
 
         if (queue.isEmpty()) {
             return null;
@@ -24,14 +24,14 @@ public class TreeBuilding {
             return null;
         }
 
-        TreeNode treeNode = new TreeNode(Integer.parseInt(node));
+        TreeNode treeNode = new TreeNode(node);
         treeNode.setLeft(preorder(queue));
         treeNode.setRight(preorder(queue));
 
         return treeNode;
     }
 
-    private TreeNode postorder(LinkedList<String> queue) {
+    public TreeNode postorder(LinkedList<String> queue) {
 
         if (queue.isEmpty()) {
             return null;
@@ -42,19 +42,19 @@ public class TreeBuilding {
             return null;
         }
 
-        TreeNode treeNode = new TreeNode(Integer.parseInt(node));
+        TreeNode treeNode = new TreeNode(node);
         treeNode.setRight(postorder(queue));
         treeNode.setLeft(postorder(queue));
 
         return treeNode;
     }
 
-    private TreeNode levelorder(List<String> nodes) {
+    public TreeNode levelorder(List<String> nodes) {
         if (CollectionUtils.isEmpty(nodes)) {
             return null;
         }
 
-        TreeNode root = new TreeNode(Integer.parseInt(nodes.get(0)));
+        TreeNode root = new TreeNode(nodes.get(0));
         Queue<TreeNode> queue = new LinkedList<>();
         queue.offer(root);
 
@@ -63,13 +63,13 @@ public class TreeBuilding {
 
             String leftData = nodes.get(i++);
             if (!leftData.equals(NULL)) {
-                parent.setLeft(new TreeNode(Integer.parseInt(leftData)));
+                parent.setLeft(new TreeNode(leftData));
                 queue.offer(parent.getLeft());
             }
 
             String rightData = nodes.get(i++);
             if (!rightData.equals(NULL)) {
-                parent.setRight(new TreeNode(Integer.parseInt(rightData)));
+                parent.setRight(new TreeNode(rightData));
                 queue.offer(parent.getRight());
             }
         }
@@ -101,7 +101,7 @@ public class TreeBuilding {
         System.out.println(JSON.toJSONString(leveOrderRootNode));
     }
 
-    private LinkedList<String> buildLinkedList(String orderStr) {
+    public LinkedList<String> buildLinkedList(String orderStr) {
         LinkedList<String> orderList = new LinkedList<>();
         for (String str : orderStr.split(SEP)) {
             orderList.add(str);
@@ -110,7 +110,7 @@ public class TreeBuilding {
         return orderList;
     }
 
-    private Queue<String> buildQueue(String orderStr) {
+    public Queue<String> buildQueue(String orderStr) {
         Queue<String> orderQueue = new LinkedList<>();
         for (String str : orderStr.split(SEP)) {
             orderQueue.offer(str);
