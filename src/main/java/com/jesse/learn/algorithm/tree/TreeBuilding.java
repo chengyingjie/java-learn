@@ -77,6 +77,14 @@ public class TreeBuilding {
         return root;
     }
 
+    public TreeNode buildByPreAndInOrder(List<String> preOrderList, List<String> inOrderList) {
+        return null;
+    }
+
+    public TreeNode buildByInAndPostOrder(List<String> inOrderList, List<String> postOrderList) {
+        return null;
+    }
+
 
     public static void main(String[] args) {
         String preOrderStr = "1,2,4,8,#,#,#,5,#,9,#,#,3,6,#,#,7,10,#,#,#";
@@ -99,6 +107,17 @@ public class TreeBuilding {
         // 层序遍历构建二叉树
         TreeNode leveOrderRootNode = treeBuilding.levelorder(treeBuilding.buildLinkedList(levelOrderStr));
         System.out.println(JSON.toJSONString(leveOrderRootNode));
+
+        List<String> preOrderList = treeBuilding.buildLinkedList("1,2,4,8,5,9,3,6,7,10");
+        List<String> postOrderList = treeBuilding.buildLinkedList("8,4,9,5,2,6,10,7,3,1");
+        List<String> inOrderList = treeBuilding.buildLinkedList("8,4,2,5,9,1,6,3,10,7");
+        // 根据前序、中序构建二叉树
+        TreeNode treeNode1 = treeBuilding.buildByPreAndInOrder(preOrderList, inOrderList);
+        System.out.println(JSON.toJSONString(treeNode1));
+
+        // 根据中序、后序构建二叉树
+        TreeNode treeNode2 = treeBuilding.buildByInAndPostOrder(inOrderList, postOrderList);
+        System.out.println(JSON.toJSONString(treeNode2));
     }
 
     public LinkedList<String> buildLinkedList(String orderStr) {
