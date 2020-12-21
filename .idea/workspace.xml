@@ -2,15 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9dbc1bd-efec-478a-a115-cc79d0765b42" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/stringclass/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/stringclass/PartitionPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/twopoint/RemoveElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/twopoint/ReplaceSpace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/twopoint/ReverseKStr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/twopoint/ReverseStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/twopoint/BuildLinked.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/twopoint/DetectCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/twopoint/LinkedNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/twopoint/ReverseLinked.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/tree/TreeBuilding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/tree/TreeBuilding.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/algorithm/tree/TreeBuilding.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/algorithm/tree/TreeBuilding.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,14 +75,14 @@
       <recent name="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/abstractfactory/fruit" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ReverseKStr">
-    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jesse.learn.algorithm.stringclass.Palindrome" />
+  <component name="RunManager" selected="Application.DetectCycle">
+    <configuration name="DetectCycle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jesse.learn.algorithm.twopoint.DetectCycle" />
       <module name="java-learn" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jesse.learn.algorithm.stringclass.*" />
+          <option name="PATTERN" value="com.jesse.learn.algorithm.twopoint.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,8 +118,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jesse.learn.algorithm.twopoint.ReverseStr" />
+    <configuration name="ReverseLinked" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jesse.learn.algorithm.twopoint.ReverseLinked" />
       <module name="java-learn" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -136,13 +132,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreeSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jesse.learn.algorithm.tree.TreeSearch" />
+    <configuration name="ReverseStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jesse.learn.algorithm.twopoint.ReverseStr" />
       <module name="java-learn" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jesse.learn.algorithm.tree.*" />
+          <option name="PATTERN" value="com.jesse.learn.algorithm.twopoint.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -173,19 +169,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TreeSearch" />
-      <item itemvalue="Application.Palindrome" />
       <item itemvalue="Application.RemoveElement" />
       <item itemvalue="Application.ReverseStr" />
       <item itemvalue="Application.ReverseKStr" />
+      <item itemvalue="Application.ReverseLinked" />
+      <item itemvalue="Application.DetectCycle" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DetectCycle" />
+        <item itemvalue="Application.ReverseLinked" />
         <item itemvalue="Application.ReverseKStr" />
         <item itemvalue="Application.ReverseStr" />
         <item itemvalue="Application.RemoveElement" />
-        <item itemvalue="Application.Palindrome" />
-        <item itemvalue="Application.TreeSearch" />
       </list>
     </recent_temporary>
   </component>
@@ -297,7 +293,9 @@
       <workItem from="1607478202342" duration="1142000" />
       <workItem from="1608010793911" duration="3750000" />
       <workItem from="1608168662575" duration="16549000" />
-      <workItem from="1608341763194" duration="3129000" />
+      <workItem from="1608341763194" duration="3582000" />
+      <workItem from="1608376838527" duration="362000" />
+      <workItem from="1608475604005" duration="5821000" />
     </task>
     <servers />
   </component>
@@ -319,62 +317,70 @@
     </state>
     <state x="403" y="110" key="#xdebugger.evaluate/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1606793927071" />
     <state x="499" y="221" key="#xdebugger.evaluate/0.0.1280.800@0.0.1280.800" timestamp="1606922648567" />
+    <state width="421" height="466" key="DebuggerActiveHint" timestamp="1608479045722">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="421" height="466" key="DebuggerActiveHint/0.0.1280.800@0.0.1280.800" timestamp="1608479045721" />
     <state x="100" y="100" width="1080" height="600" key="DiffContextDialog" timestamp="1603096323649">
       <screen x="38" y="23" width="1242" height="777" />
     </state>
     <state x="100" y="100" width="1080" height="600" key="DiffContextDialog/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1603096018566" />
     <state x="100" y="100" width="1080" height="600" key="DiffContextDialog/38.23.1242.777/-557.-1417.2560.1417@38.23.1242.777" timestamp="1603096323649" />
-    <state width="1238" height="226" key="GridCell.Tab.0.bottom" timestamp="1608345960651">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state width="1453" height="266" key="GridCell.Tab.0.bottom" timestamp="1608530459069">
+      <screen x="-557" y="-1417" width="2560" height="1417" />
     </state>
     <state width="1238" height="206" key="GridCell.Tab.0.bottom/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1608271761193" />
-    <state width="1238" height="226" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1608345960651" />
+    <state width="1238" height="226" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1608479337697" />
+    <state width="1453" height="266" key="GridCell.Tab.0.bottom/37.23.1243.777/-557.-1417.2560.1417@-557.-1417.2560.1417" timestamp="1608530459069" />
     <state width="1238" height="206" key="GridCell.Tab.0.bottom/38.0.1242.800/-557.-1417.2560.1417@38.0.1242.800" timestamp="1608171503198" />
     <state width="1238" height="159" key="GridCell.Tab.0.bottom/38.23.1242.777/-557.-1417.2560.1417@38.23.1242.777" timestamp="1603960479314" />
-    <state width="1238" height="226" key="GridCell.Tab.0.center" timestamp="1608345960647">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state width="1453" height="266" key="GridCell.Tab.0.center" timestamp="1608530459065">
+      <screen x="-557" y="-1417" width="2560" height="1417" />
     </state>
     <state width="1238" height="206" key="GridCell.Tab.0.center/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1608271761188" />
-    <state width="1238" height="226" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1608345960647" />
+    <state width="1238" height="226" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1608479337694" />
+    <state width="1453" height="266" key="GridCell.Tab.0.center/37.23.1243.777/-557.-1417.2560.1417@-557.-1417.2560.1417" timestamp="1608530459065" />
     <state width="1238" height="206" key="GridCell.Tab.0.center/38.0.1242.800/-557.-1417.2560.1417@38.0.1242.800" timestamp="1608171503192" />
     <state width="1238" height="159" key="GridCell.Tab.0.center/38.23.1242.777/-557.-1417.2560.1417@38.23.1242.777" timestamp="1603960479308" />
-    <state width="1238" height="226" key="GridCell.Tab.0.left" timestamp="1608345960645">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state width="1453" height="266" key="GridCell.Tab.0.left" timestamp="1608530459062">
+      <screen x="-557" y="-1417" width="2560" height="1417" />
     </state>
     <state width="1238" height="206" key="GridCell.Tab.0.left/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1608271761186" />
-    <state width="1238" height="226" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1608345960645" />
+    <state width="1238" height="226" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1608479337693" />
+    <state width="1453" height="266" key="GridCell.Tab.0.left/37.23.1243.777/-557.-1417.2560.1417@-557.-1417.2560.1417" timestamp="1608530459062" />
     <state width="1238" height="206" key="GridCell.Tab.0.left/38.0.1242.800/-557.-1417.2560.1417@38.0.1242.800" timestamp="1608171503189" />
     <state width="1238" height="159" key="GridCell.Tab.0.left/38.23.1242.777/-557.-1417.2560.1417@38.23.1242.777" timestamp="1603960479303" />
-    <state width="1238" height="226" key="GridCell.Tab.0.right" timestamp="1608345960649">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state width="1453" height="266" key="GridCell.Tab.0.right" timestamp="1608530459067">
+      <screen x="-557" y="-1417" width="2560" height="1417" />
     </state>
     <state width="1238" height="206" key="GridCell.Tab.0.right/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1608271761191" />
-    <state width="1238" height="226" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1608345960649" />
+    <state width="1238" height="226" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1608479337696" />
+    <state width="1453" height="266" key="GridCell.Tab.0.right/37.23.1243.777/-557.-1417.2560.1417@-557.-1417.2560.1417" timestamp="1608530459067" />
     <state width="1238" height="206" key="GridCell.Tab.0.right/38.0.1242.800/-557.-1417.2560.1417@38.0.1242.800" timestamp="1608171503194" />
     <state width="1238" height="159" key="GridCell.Tab.0.right/38.23.1242.777/-557.-1417.2560.1417@38.23.1242.777" timestamp="1603960479312" />
-    <state width="1238" height="226" key="GridCell.Tab.1.bottom" timestamp="1608345961425">
+    <state width="1238" height="226" key="GridCell.Tab.1.bottom" timestamp="1608479337704">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1238" height="334" key="GridCell.Tab.1.bottom/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1608271109034" />
-    <state width="1238" height="226" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1608345961425" />
+    <state width="1238" height="226" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1608479337704" />
     <state width="1238" height="334" key="GridCell.Tab.1.bottom/36.0.1244.800/-557.-1417.2560.1417@36.0.1244.800" timestamp="1608270878101" />
-    <state width="1238" height="226" key="GridCell.Tab.1.center" timestamp="1608345961421">
+    <state width="1238" height="226" key="GridCell.Tab.1.center" timestamp="1608479337701">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1238" height="334" key="GridCell.Tab.1.center/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1608271109031" />
-    <state width="1238" height="226" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1608345961421" />
+    <state width="1238" height="226" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1608479337701" />
     <state width="1238" height="334" key="GridCell.Tab.1.center/36.0.1244.800/-557.-1417.2560.1417@36.0.1244.800" timestamp="1608270878096" />
-    <state width="1238" height="226" key="GridCell.Tab.1.left" timestamp="1608345961419">
+    <state width="1238" height="226" key="GridCell.Tab.1.left" timestamp="1608479337699">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1238" height="334" key="GridCell.Tab.1.left/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1608271109030" />
-    <state width="1238" height="226" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1608345961419" />
+    <state width="1238" height="226" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1608479337699" />
     <state width="1238" height="334" key="GridCell.Tab.1.left/36.0.1244.800/-557.-1417.2560.1417@36.0.1244.800" timestamp="1608270878091" />
-    <state width="1238" height="226" key="GridCell.Tab.1.right" timestamp="1608345961423">
+    <state width="1238" height="226" key="GridCell.Tab.1.right" timestamp="1608479337702">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1238" height="334" key="GridCell.Tab.1.right/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1608271109032" />
-    <state width="1238" height="226" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1608345961423" />
+    <state width="1238" height="226" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1608479337702" />
     <state width="1238" height="334" key="GridCell.Tab.1.right/36.0.1244.800/-557.-1417.2560.1417@36.0.1244.800" timestamp="1608270878098" />
     <state x="388" y="141" key="VcsDiffUtil.ChangesDialog" timestamp="1603096028655">
       <screen x="0" y="0" width="1280" height="800" />
@@ -385,10 +391,11 @@
     </state>
     <state x="341" y="126" width="598" height="548" key="find.popup/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1603955579785" />
     <state x="341" y="126" width="598" height="548" key="find.popup/0.0.1280.800@0.0.1280.800" timestamp="1604757194065" />
-    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1606794260717">
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1608347437842">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1606794260717" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1608347437842" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
