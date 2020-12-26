@@ -5,6 +5,9 @@ import com.alibaba.fastjson.JSON;
 import java.util.LinkedList;
 import java.util.Queue;
 
+/**
+ * 树的遍历（前序、中序、后序、层序）
+ */
 public class TreeSearch {
 
     private static final String SEP = ",";
