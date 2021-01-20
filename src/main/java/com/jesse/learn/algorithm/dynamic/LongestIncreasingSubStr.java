@@ -40,6 +40,31 @@ public class LongestIncreasingSubStr {
     public static void main(String[] args) {
         LongestIncreasingSubStr subStr = new LongestIncreasingSubStr();
         System.out.println(subStr.getLongestSubStrLength("cavdaabdecdefead"));
+        System.out.println(subStr.getLongestSubStr("cavdaabdecdefead"));
+    }
+
+    private int getLongestSubStr(String s) {
+        if (s == null || s.equals("")) {
+            return 0;
+        }
+
+        int[] dp = new int[s.length()];
+        dp[0] = 1;
+
+        for (int i = 1; i < s.length(); i++) {
+            if (s.charAt(i) > s.charAt(i-1)) {
+                dp[i] = dp[i-1] + 1;
+            } else {
+                dp[i] = 1;
+            }
+        }
+
+        // 取最大值
+        int max = -1;
+        for (int i = 0; i < s.length(); i++) {
+            max = Math.max(max, dp[i]);
+        }
+        return max;
     }
 
 }

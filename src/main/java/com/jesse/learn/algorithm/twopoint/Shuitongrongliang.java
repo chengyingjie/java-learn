@@ -1,4 +1,4 @@
-package com.jesse.learn.algorithm;
+package com.jesse.learn.algorithm.twopoint;
 
 
 /**
