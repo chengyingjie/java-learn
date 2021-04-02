@@ -2,36 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9dbc1bd-efec-478a-a115-cc79d0765b42" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/dynamic/Combine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/dynamic/NQueens.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/dynamic/ParenthesisGenerate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/dynamic/Subsets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/dynamic/TargetSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/sort/SortMaxElementValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/sort/StatTotalSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/tmp/BundSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/tmp/ListHasCycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/tmp/LongestSubStr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/tmp/Lru.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/tmp/MergeArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/tmp/MergeTwoLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/tmp/ReverseList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/tmp/TreeLevelOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/tmp/TreeOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/tmp/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/ThreeNums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/dynamic/TmpClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/tmptmp/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/tmptmp/SumTwoInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/tmptmp/ThreeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/tmptmp/Workbreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/tmptmp/backtrackkuohao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/tmptmp/duicheng.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/CoinChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/CoinChange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/CommonPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/CommonPrefix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/Shuitongrongliang.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/twopoint/Shuitongrongliang.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/dynamic/BianJiJuLi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/dynamic/BianJiJuLi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/CoinChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/dynamic/CoinChange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/DigitReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/DigitReverse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/dynamic/LongestIncreasingSubStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/dynamic/LongestIncreasingSubStr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/dynamic/QuanPaiLie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/dynamic/QuanPaiLie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/algorithm/CoinChange.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/algorithm/CoinChange.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/algorithm/CommonPrefix.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/algorithm/CommonPrefix.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/algorithm/Shuitongrongliang.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/algorithm/dynamic/BianJiJuLi.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/algorithm/dynamic/BianJiJuLi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/tmp/BundSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/tmp/BundSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/tree/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/tree/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/java-learn.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/algorithm/CoinChange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/algorithm/DigitReverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/algorithm/DigitReverse.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/algorithm/dynamic/LongestIncreasingSubStr.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/algorithm/dynamic/LongestIncreasingSubStr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/algorithm/dynamic/QuanPaiLie.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/algorithm/dynamic/QuanPaiLie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/algorithm/tmp/BundSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/algorithm/tmp/BundSearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/algorithm/tree/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/algorithm/tree/TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jesse/learn/designpattern/creator/singleton/DoubleCheckSingleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jesse/learn/designpattern/creator/singleton/DoubleCheckSingleton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/dubbo/JavaSPITest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/mybatis/KolDaoTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +57,12 @@
         <option name="userSettingsFile" value="$PROJECT_DIR$/../maven_setting/settings.xml" />
       </MavenGeneralSettings>
     </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="ProjectId" id="1dq9zJvBEV6fL1bH5FNNR63yrJd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -69,6 +71,8 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SearchEverywhereHistoryKey" value="FixedThreadPool&#9;PSI&#9;JAVA://com.alibaba.dubbo.common.threadpool.support.fixed.FixedThreadPool&#10;ThreadPool&#9;PSI&#9;JAVA://com.alibaba.dubbo.common.threadpool.ThreadPool&#10;config&#9;FILE&#9;jar:///Users/chengyingjie/.m2/repository/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/session/Configuration.java&#10;MapperProxyFactory&#9;FILE&#9;jar:///Users/chengyingjie/.m2/repository/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/binding/MapperProxyFactory.java&#10;Configuration&#9;FILE&#9;jar:///Users/chengyingjie/.m2/repository/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/session/Configuration.java&#10;beandefinit&#9;PSI&#9;JAVA://org.springframework.beans.factory.config.BeanDefinition&#10;AopNamespaceHandle&#9;PSI&#9;JAVA://org.springframework.aop.config.AopNamespaceHandler" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -79,7 +83,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -100,9 +104,23 @@
       <recent name="$PROJECT_DIR$/src/main/java/com/jesse/learn/designpattern/creator/abstractfactory/fruit" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CoinChange">
-    <configuration name="CoinChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jesse.learn.algorithm.CoinChange" />
+  <component name="RunManager" selected="Application.TmpClass">
+    <configuration name="BundSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jesse.learn.algorithm.tmp.BundSearch" />
+      <module name="java-learn" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jesse.learn.algorithm.tmp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DigitReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jesse.learn.algorithm.DigitReverse" />
       <module name="java-learn" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -115,8 +133,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Combine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jesse.learn.algorithm.dynamic.Combine" />
+    <configuration name="LongestIncreasingSubStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jesse.learn.algorithm.dynamic.LongestIncreasingSubStr" />
       <module name="java-learn" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -129,36 +147,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestSubStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jesse.learn.algorithm.tmp.LongestSubStr" />
-      <module name="java-learn" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jesse.learn.algorithm.tmp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MergeArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jesse.learn.algorithm.tmp.MergeArray" />
-      <module name="java-learn" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jesse.learn.algorithm.tmp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Subsets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jesse.learn.algorithm.dynamic.Subsets" />
+    <configuration name="TmpClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jesse.learn.algorithm.dynamic.TmpClass" />
       <module name="java-learn" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -173,6 +163,20 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="backtrackkuohao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jesse.learn.algorithm.tmptmp.backtrackkuohao" />
+      <module name="java-learn" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jesse.learn.algorithm.tmptmp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -194,19 +198,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Subsets" />
-      <item itemvalue="Application.Combine" />
-      <item itemvalue="Application.LongestSubStr" />
-      <item itemvalue="Application.MergeArray" />
-      <item itemvalue="Application.CoinChange" />
+      <item itemvalue="Application.backtrackkuohao" />
+      <item itemvalue="Application.BundSearch" />
+      <item itemvalue="Application.DigitReverse" />
+      <item itemvalue="Application.LongestIncreasingSubStr" />
+      <item itemvalue="Application.TmpClass" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CoinChange" />
-        <item itemvalue="Application.MergeArray" />
-        <item itemvalue="Application.LongestSubStr" />
-        <item itemvalue="Application.Combine" />
-        <item itemvalue="Application.Subsets" />
+        <item itemvalue="Application.TmpClass" />
+        <item itemvalue="Application.LongestIncreasingSubStr" />
+        <item itemvalue="Application.DigitReverse" />
+        <item itemvalue="Application.BundSearch" />
+        <item itemvalue="Application.backtrackkuohao" />
       </list>
     </recent_temporary>
   </component>
@@ -341,6 +345,37 @@
       <workItem from="1610934441921" duration="969000" />
       <workItem from="1610982374124" duration="3399000" />
       <workItem from="1611020980536" duration="7035000" />
+      <workItem from="1611106896636" duration="527000" />
+      <workItem from="1611150346864" duration="1730000" />
+      <workItem from="1611977164439" duration="4562000" />
+      <workItem from="1612064049099" duration="48000" />
+      <workItem from="1612160865513" duration="1830000" />
+      <workItem from="1612316642528" duration="2479000" />
+      <workItem from="1612661769494" duration="19210000" />
+      <workItem from="1612747579008" duration="1184000" />
+      <workItem from="1612748958990" duration="19690000" />
+      <workItem from="1613704952871" duration="26415000" />
+      <workItem from="1613873880637" duration="16861000" />
+      <workItem from="1614043981662" duration="244000" />
+      <workItem from="1614130462587" duration="5205000" />
+      <workItem from="1614164370966" duration="11248000" />
+      <workItem from="1614821734233" duration="204000" />
+      <workItem from="1615191110680" duration="11876000" />
+      <workItem from="1615340840639" duration="359000" />
+      <workItem from="1615427065126" duration="387000" />
+      <workItem from="1615438921635" duration="167000" />
+      <workItem from="1615528892481" duration="245000" />
+      <workItem from="1615647954462" duration="801000" />
+      <workItem from="1615796317506" duration="5808000" />
+      <workItem from="1615961014347" duration="9710000" />
+      <workItem from="1616338102018" duration="227000" />
+      <workItem from="1616463195849" duration="421000" />
+      <workItem from="1616549942597" duration="850000" />
+      <workItem from="1616574696786" duration="6193000" />
+      <workItem from="1617071565965" duration="215000" />
+      <workItem from="1617185129658" duration="595000" />
+      <workItem from="1617248351900" duration="594000" />
+      <workItem from="1617334761563" duration="932000" />
     </task>
     <servers />
   </component>
@@ -348,111 +383,177 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="453" y="113" key="#com.intellij.ide.util.MemberChooser" timestamp="1608169260776">
+    <state x="525" y="270" key="#Notifications" timestamp="1612662148847">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="453" y="113" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1608169260776" />
-    <state x="0" y="0" width="874" height="800" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1608301807984">
+    <state x="525" y="270" key="#Notifications/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1612662148847" />
+    <state x="296" y="19" key="#Solution" timestamp="1613742507354">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="0" y="0" width="874" height="800" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1608168939231" />
-    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.800@0.0.1280.800" timestamp="1608301807984" />
-    <state x="480" y="221" key="#xdebugger.evaluate" timestamp="1610357989451">
+    <state x="296" y="19" key="#Solution/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1613725323081" />
+    <state x="296" y="19" key="#Solution/0.0.1280.800@0.0.1280.800" timestamp="1613742507354" />
+    <state x="480" y="221" key="#xdebugger.evaluate" timestamp="1613810769985">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="480" y="221" key="#xdebugger.evaluate/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1610357989451" />
-    <state x="499" y="221" key="#xdebugger.evaluate/0.0.1280.800@0.0.1280.800" timestamp="1606922648567" />
-    <state width="421" height="466" key="DebuggerActiveHint" timestamp="1608479045722">
+    <state x="480" y="221" key="#xdebugger.evaluate/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1613810769985" />
+    <state x="499" y="221" key="#xdebugger.evaluate/0.0.1280.800@0.0.1280.800" timestamp="1613742630029" />
+    <state width="429" height="466" key="DebuggerActiveHint" timestamp="1612765356486">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="421" height="466" key="DebuggerActiveHint/0.0.1280.800@0.0.1280.800" timestamp="1608479045721" />
-    <state x="100" y="100" width="1080" height="600" key="DiffContextDialog" timestamp="1603096323649">
-      <screen x="38" y="23" width="1242" height="777" />
+    <state width="429" height="466" key="DebuggerActiveHint/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1612765356486" />
+    <state width="1396" height="228" key="GridCell.Tab.0.bottom" timestamp="1617334896728">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="100" y="100" width="1080" height="600" key="DiffContextDialog/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1603096018566" />
-    <state x="100" y="100" width="1080" height="600" key="DiffContextDialog/38.23.1242.777/-557.-1417.2560.1417@38.23.1242.777" timestamp="1603096323649" />
-    <state width="1238" height="205" key="GridCell.Tab.0.bottom" timestamp="1611073086890">
-      <screen x="0" y="0" width="1280" height="800" />
-    </state>
-    <state width="1238" height="205" key="GridCell.Tab.0.bottom/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1611043361170" />
-    <state width="1238" height="205" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1611073086890" />
-    <state width="1453" height="266" key="GridCell.Tab.0.bottom/37.23.1243.777/-557.-1417.2560.1417@-557.-1417.2560.1417" timestamp="1608530505520" />
-    <state width="1238" height="205" key="GridCell.Tab.0.bottom/38.0.1242.800/-557.-1417.2560.1417@38.0.1242.800" timestamp="1610357719714" />
+    <state width="618" height="205" key="GridCell.Tab.0.bottom/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1613960317596" />
+    <state width="1236" height="254" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1616843508236" />
+    <state width="1396" height="228" key="GridCell.Tab.0.bottom/0.0.1440.900/-637.-1440.2560.1440@0.0.1440.900" timestamp="1617334896728" />
+    <state width="618" height="349" key="GridCell.Tab.0.bottom/38.0.1242.800/-557.-1417.2560.1417@38.0.1242.800" timestamp="1613725338380" />
     <state width="1238" height="205" key="GridCell.Tab.0.bottom/38.23.1242.777/-557.-1417.2560.1417@38.23.1242.777" timestamp="1610439622189" />
     <state width="1238" height="205" key="GridCell.Tab.0.bottom/38.23.1242.777@38.23.1242.777" timestamp="1610640007237" />
-    <state width="1238" height="205" key="GridCell.Tab.0.center" timestamp="1611073086887">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state width="1236" height="254" key="GridCell.Tab.0.bottom/40.23.1240.777@40.23.1240.777" timestamp="1616852657479" />
+    <state width="1396" height="228" key="GridCell.Tab.0.center" timestamp="1617334896726">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1238" height="205" key="GridCell.Tab.0.center/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1611043361166" />
-    <state width="1238" height="205" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1611073086887" />
-    <state width="1453" height="266" key="GridCell.Tab.0.center/37.23.1243.777/-557.-1417.2560.1417@-557.-1417.2560.1417" timestamp="1608530505518" />
-    <state width="1238" height="205" key="GridCell.Tab.0.center/38.0.1242.800/-557.-1417.2560.1417@38.0.1242.800" timestamp="1610357719702" />
+    <state width="618" height="205" key="GridCell.Tab.0.center/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1613960317593" />
+    <state width="1236" height="254" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1616843508231" />
+    <state width="1396" height="228" key="GridCell.Tab.0.center/0.0.1440.900/-637.-1440.2560.1440@0.0.1440.900" timestamp="1617334896726" />
+    <state width="618" height="349" key="GridCell.Tab.0.center/38.0.1242.800/-557.-1417.2560.1417@38.0.1242.800" timestamp="1613725338375" />
     <state width="1238" height="205" key="GridCell.Tab.0.center/38.23.1242.777/-557.-1417.2560.1417@38.23.1242.777" timestamp="1610439622184" />
     <state width="1238" height="205" key="GridCell.Tab.0.center/38.23.1242.777@38.23.1242.777" timestamp="1610640007235" />
-    <state width="1238" height="205" key="GridCell.Tab.0.left" timestamp="1611073086886">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state width="1236" height="254" key="GridCell.Tab.0.center/40.23.1240.777@40.23.1240.777" timestamp="1616852657476" />
+    <state width="1396" height="228" key="GridCell.Tab.0.left" timestamp="1617334896724">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1238" height="205" key="GridCell.Tab.0.left/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1611043361164" />
-    <state width="1238" height="205" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1611073086886" />
-    <state width="1453" height="266" key="GridCell.Tab.0.left/37.23.1243.777/-557.-1417.2560.1417@-557.-1417.2560.1417" timestamp="1608530505517" />
-    <state width="1238" height="205" key="GridCell.Tab.0.left/38.0.1242.800/-557.-1417.2560.1417@38.0.1242.800" timestamp="1610357719697" />
+    <state width="618" height="205" key="GridCell.Tab.0.left/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1613960317591" />
+    <state width="1236" height="254" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1616843508229" />
+    <state width="1396" height="228" key="GridCell.Tab.0.left/0.0.1440.900/-637.-1440.2560.1440@0.0.1440.900" timestamp="1617334896724" />
+    <state width="618" height="349" key="GridCell.Tab.0.left/38.0.1242.800/-557.-1417.2560.1417@38.0.1242.800" timestamp="1613725338371" />
     <state width="1238" height="205" key="GridCell.Tab.0.left/38.23.1242.777/-557.-1417.2560.1417@38.23.1242.777" timestamp="1610439622181" />
     <state width="1238" height="205" key="GridCell.Tab.0.left/38.23.1242.777@38.23.1242.777" timestamp="1610640007233" />
-    <state width="1238" height="205" key="GridCell.Tab.0.right" timestamp="1611073086888">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state width="1236" height="254" key="GridCell.Tab.0.left/40.23.1240.777@40.23.1240.777" timestamp="1616852657475" />
+    <state width="1396" height="228" key="GridCell.Tab.0.right" timestamp="1617334896727">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1238" height="205" key="GridCell.Tab.0.right/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1611043361168" />
-    <state width="1238" height="205" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1611073086888" />
-    <state width="1453" height="266" key="GridCell.Tab.0.right/37.23.1243.777/-557.-1417.2560.1417@-557.-1417.2560.1417" timestamp="1608530505519" />
-    <state width="1238" height="205" key="GridCell.Tab.0.right/38.0.1242.800/-557.-1417.2560.1417@38.0.1242.800" timestamp="1610357719711" />
+    <state width="618" height="205" key="GridCell.Tab.0.right/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1613960317594" />
+    <state width="1236" height="254" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1616843508234" />
+    <state width="1396" height="228" key="GridCell.Tab.0.right/0.0.1440.900/-637.-1440.2560.1440@0.0.1440.900" timestamp="1617334896727" />
+    <state width="618" height="349" key="GridCell.Tab.0.right/38.0.1242.800/-557.-1417.2560.1417@38.0.1242.800" timestamp="1613725338378" />
     <state width="1238" height="205" key="GridCell.Tab.0.right/38.23.1242.777/-557.-1417.2560.1417@38.23.1242.777" timestamp="1610439622187" />
     <state width="1238" height="205" key="GridCell.Tab.0.right/38.23.1242.777@38.23.1242.777" timestamp="1610640007235" />
-    <state width="1238" height="326" key="GridCell.Tab.1.bottom" timestamp="1611072828328">
+    <state width="1236" height="254" key="GridCell.Tab.0.right/40.23.1240.777@40.23.1240.777" timestamp="1616852657478" />
+    <state width="1236" height="254" key="GridCell.Tab.1.bottom" timestamp="1616852657485">
+      <screen x="40" y="23" width="1240" height="777" />
+    </state>
+    <state width="1236" height="282" key="GridCell.Tab.1.bottom/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1613810791260" />
+    <state width="1236" height="254" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1616843508535" />
+    <state width="618" height="265" key="GridCell.Tab.1.bottom/38.0.1242.800/-557.-1417.2560.1417@38.0.1242.800" timestamp="1612777902740" />
+    <state width="1236" height="254" key="GridCell.Tab.1.bottom/40.23.1240.777@40.23.1240.777" timestamp="1616852657485" />
+    <state width="1236" height="254" key="GridCell.Tab.1.center" timestamp="1616852657482">
+      <screen x="40" y="23" width="1240" height="777" />
+    </state>
+    <state width="1236" height="282" key="GridCell.Tab.1.center/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1613810791254" />
+    <state width="1236" height="254" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1616843508530" />
+    <state width="618" height="265" key="GridCell.Tab.1.center/38.0.1242.800/-557.-1417.2560.1417@38.0.1242.800" timestamp="1612777902731" />
+    <state width="1236" height="254" key="GridCell.Tab.1.center/40.23.1240.777@40.23.1240.777" timestamp="1616852657482" />
+    <state width="1236" height="254" key="GridCell.Tab.1.left" timestamp="1616852657481">
+      <screen x="40" y="23" width="1240" height="777" />
+    </state>
+    <state width="1236" height="282" key="GridCell.Tab.1.left/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1613810791251" />
+    <state width="1236" height="254" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1616843508526" />
+    <state width="618" height="265" key="GridCell.Tab.1.left/38.0.1242.800/-557.-1417.2560.1417@38.0.1242.800" timestamp="1612777902727" />
+    <state width="1236" height="254" key="GridCell.Tab.1.left/40.23.1240.777@40.23.1240.777" timestamp="1616852657481" />
+    <state width="1236" height="254" key="GridCell.Tab.1.right" timestamp="1616852657483">
+      <screen x="40" y="23" width="1240" height="777" />
+    </state>
+    <state width="1236" height="282" key="GridCell.Tab.1.right/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1613810791257" />
+    <state width="1236" height="254" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1616843508533" />
+    <state width="618" height="265" key="GridCell.Tab.1.right/38.0.1242.800/-557.-1417.2560.1417@38.0.1242.800" timestamp="1612777902736" />
+    <state width="1236" height="254" key="GridCell.Tab.1.right/40.23.1240.777@40.23.1240.777" timestamp="1616852657483" />
+    <state x="168" y="44" key="SettingsEditor" timestamp="1617334849504">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="149" y="39" key="SettingsEditor/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1612748811485" />
+    <state x="168" y="44" key="SettingsEditor/0.0.1440.900/-637.-1440.2560.1440@0.0.1440.900" timestamp="1617334849504" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1613807056318">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="226" key="GridCell.Tab.1.bottom/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1611043343416" />
-    <state width="1238" height="326" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1611072828328" />
-    <state width="1238" height="334" key="GridCell.Tab.1.bottom/36.0.1244.800/-557.-1417.2560.1417@36.0.1244.800" timestamp="1608270878101" />
-    <state width="1238" height="326" key="GridCell.Tab.1.center" timestamp="1611072828325">
+    <state width="500" height="445" key="SwitcherDM/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1613807056318" />
+    <state x="421" y="190" width="597" height="548" key="find.popup" timestamp="1617334903969">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="421" y="190" width="597" height="548" key="find.popup/0.0.1440.900/-637.-1440.2560.1440@0.0.1440.900" timestamp="1617334903969" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1612675232036">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="226" key="GridCell.Tab.1.center/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1611043343410" />
-    <state width="1238" height="326" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1611072828325" />
-    <state width="1238" height="334" key="GridCell.Tab.1.center/36.0.1244.800/-557.-1417.2560.1417@36.0.1244.800" timestamp="1608270878096" />
-    <state width="1238" height="326" key="GridCell.Tab.1.left" timestamp="1611072828324">
-      <screen x="0" y="0" width="1280" height="800" />
-    </state>
-    <state width="1238" height="226" key="GridCell.Tab.1.left/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1611043343407" />
-    <state width="1238" height="326" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1611072828324" />
-    <state width="1238" height="334" key="GridCell.Tab.1.left/36.0.1244.800/-557.-1417.2560.1417@36.0.1244.800" timestamp="1608270878091" />
-    <state width="1238" height="326" key="GridCell.Tab.1.right" timestamp="1611072828326">
-      <screen x="0" y="0" width="1280" height="800" />
-    </state>
-    <state width="1238" height="226" key="GridCell.Tab.1.right/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1611043343412" />
-    <state width="1238" height="326" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1611072828326" />
-    <state width="1238" height="334" key="GridCell.Tab.1.right/36.0.1244.800/-557.-1417.2560.1417@36.0.1244.800" timestamp="1608270878098" />
-    <state x="388" y="141" key="VcsDiffUtil.ChangesDialog" timestamp="1603096028655">
-      <screen x="0" y="0" width="1280" height="800" />
-    </state>
-    <state x="388" y="141" key="VcsDiffUtil.ChangesDialog/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1603096028655" />
-    <state x="341" y="126" width="598" height="548" key="find.popup" timestamp="1604757194065">
-      <screen x="0" y="0" width="1280" height="800" />
-    </state>
-    <state x="341" y="126" width="598" height="548" key="find.popup/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1603955579785" />
-    <state x="341" y="126" width="598" height="548" key="find.popup/0.0.1280.800@0.0.1280.800" timestamp="1604757194065" />
-    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1611071661203">
-      <screen x="0" y="0" width="1280" height="800" />
-    </state>
-    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1611041680113" />
-    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1611071661203" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.0.1280.800/-557.-1440.2560.1440@0.0.1280.800" timestamp="1612675232036" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1611994540420" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/dynamic/Combine.java</url>
-          <line>44</line>
-          <option name="timeStamp" value="1" />
+          <url>file://$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/tmptmp/SumTwoInteger.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/tmptmp/ThreeSum.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/tmptmp/Palindrome.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/tmptmp/duicheng.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/tree/TreeBuilding.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/tmptmp/duicheng.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/tmptmp/ThreeSum.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/tmptmp/backtrackkuohao.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/tmptmp/Workbreak.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/个人/leetcode /leetcode/editor/cn/[206]反转链表.java</url>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/DigitReverse.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/dynamic/TmpClass.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/jesse/learn/algorithm/dynamic/TmpClass.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="39" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

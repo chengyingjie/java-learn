@@ -38,6 +38,11 @@ public class LongestIncreasingSubStr {
     }
 
     public static void main(String[] args) {
+        String str = "099";
+        StringBuffer sbuff = new StringBuffer(str);
+        System.out.println(sbuff.reverse().toString());
+
+
         LongestIncreasingSubStr subStr = new LongestIncreasingSubStr();
         System.out.println(subStr.getLongestSubStrLength("cavdaabdecdefead"));
         System.out.println(subStr.getLongestSubStr("cavdaabdecdefead"));
